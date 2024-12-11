@@ -1,0 +1,2176 @@
+Res,layer_17,layer_16,layer_15,layer_14,layer_13,layer_12,layer_11,layer_10,layer_9,layer_8,layer_7,layer_6,layer_5,layer_4,layer_3,layer_2,layer_1
+"Using Answer Using one word only :  The capital of France is ____.
+ Answer: ",ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠFrance,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest planet in the solar system is ____.
+ Answer: ",ĠUran,ĠJupiter,ĠJupiter,ĠJupiter,ĠJupiter,ĠVenus,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Water boils at ____ degrees Celsius.
+ Answer: ",100,100,100,100,Ġboiling,Ġboiling,2,2,2,1,ĠWater,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for gold is ____.
+ Answer: ",ĠAu,ĠAu,ĠAu,ĠAu,ĠGold,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Wall of China is located in ____.
+ Answer: ",1,1,1,ĠChina,ĠChina,ĠChina,ĠChina,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency of Japan is the ____.
+ Answer: ",Ġyen,ĠYen,Ġyen,Ġyen,Ġyen,Ġyen,ĠJapan,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The longest river in the world is the ____.
+ Answer: ",1,1,1,ĠYang,ĠYang,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest mountain on Earth is Mount ____.
+ Answer: ",14,ĠEverest,ĠEverest,ĠMount,ĠMount,ĠMount,ĠMount,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary language spoken in Brazil is ____.
+ Answer: ",ĠPortuguese,ĠPortuguese,ĠPortuguese,ĠPortuguese,ĠPortuguese,ĠPortuguese,ĠEnglish,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of oxygen is ____.
+ Answer: ",8,16,16,6,6,6,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  5 + 3 = ____.
+ Answer: ",8,Ġ,Ġ,10,6,Ġ,6,6,5,1,1,5,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  12 ÷ 4 = ____.
+ Answer: ",3,3,3,2,2,6,6,6,1,1,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The square root of 16 is ____.
+ Answer: ",4,2,8,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  7 × 8 = ____.
+ Answer: ",56,56,56,Ġ,16,Ġ,8,6,1,10,1,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  25 − 17 = ____.
+ Answer: ",8,Ġ,Ġ,Ġ,2,16,6,6,5,Ġ,1,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The area of a square with side length 4 is ____.
+ Answer: ",16,16,16,16,16,4,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a rectangle with length 5 and width 3 is ____.
+ Answer: ",12,12,15,15,6,6,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube root of 27 is ____.
+ Answer: ",9,3,3,3,6,2,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If x = 3, then 2x + 1 = ____.
+ Answer: ",4,2,4,4,2,2,2,2,2,1,1,1,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  100 − 25 × 3 = ____.
+ Answer: ",100,Ġ,Ġ,Ġ,100,6,6,6,100,100,100,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The Eiffel Tower is located in ____.
+ Answer: ",ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Sun rises in the ____.
+ Answer: ",ĠEast,ĠEast,1,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first president of the United States was George ____.
+ Answer: ",ĠWashington,ĠGeorge,ĠGeorge,1,ĠJohn,ĠGeorge,ĠGeorge,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency of the United States is the ____.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Germany is ____.
+ Answer: ",ĠBerlin,ĠBerlin,ĠBerlin,ĠBerlin,ĠBerlin,ĠBerlin,ĠGermany,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Barrier Reef is located in ____.
+ Answer: ",ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  An octagon has ____ sides.
+ Answer: ",8,8,8,8,8,6,4,2,1,1,ĠAnswer,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest mammal in the world is the ____.
+ Answer: ",ĠThe,ĠElephant,ĠElephant,ĠElephant,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The inventor of the telephone was Alexander Graham ____.
+ Answer: ",ĠBell,ĠBell,ĠAlexander,ĠAlexander,ĠAlexander,ĠJohn,ĠAlexander,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The freezing point of water in Celsius is ____.
+ Answer: ",273,273,273,32,273,273,0,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Science and Nature
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠQuestion,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Photosynthesis occurs in the ____ of a plant cell.
+ Answer: ",ĠChlor,ĠChlor,ĠChlor,1,ĠPhotos,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of water turning into vapor is called ____.
+ Answer: ",ĠVapor,Ġev,ĠVapor,ĠVapor,ĠVapor,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest unit of life is the ____.
+ Answer: ",1,1,1,1,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Lightning is caused by electrical ____.
+ Answer: ",ĠDis,ĠDis,ĠLightning,ĠLightning,ĠLightning,ĠLightning,ĠLightning,ĠLightning,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The human heart pumps ____.
+ Answer: ",4,4,4,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary gas in Earth's atmosphere is ____.
+ Answer: ",ĠNit,ĠNit,ĠNit,ĠNit,2,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Milky Way is a type of ____.
+ Answer: ",ĠGalaxy,ĠGalaxy,ĠGalaxy,ĠThe,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The closest planet to the Sun is ____.
+ Answer: ",ĠUran,ĠMercury,ĠVenus,ĠVenus,ĠVenus,ĠVenus,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The hardest natural substance is ____.
+ Answer: ",1,1,1,1,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Penguins live in the ____.
+ Answer: ",ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠPenguins,ĠPenguins,1,1,1,1,5,1,1,1,1,Ġ
+"Using Answer Using one word only :  Pop Culture and History
+ Answer: ",1,1,1,1,1,1,ĠThe,1,1,1,1,ĠAnswer,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""Harry Potter"" is J.K. ____.
+ Answer: ",ĠRowling,ĠRowling,ĠJ,ĠJK,ĠRowling,ĠRowling,ĠRowling,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Mona Lisa was painted by ____.
+ Answer: ",ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠMichel,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Titanic sank in the year ____.
+ Answer: ",191,191,191,191,191,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first man on the Moon was Neil ____.
+ Answer: ",ĠArmstrong,ĠArmstrong,ĠArmstrong,ĠNeil,ĠNeil,ĠNeil,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national flower of the United States is the ____.
+ Answer: ",ĠThe,ĠThe,ĠThe,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Greek god of the sea is ____.
+ Answer: ",ĠPose,ĠPose,ĠPose,ĠPose,ĠPose,ĠZeus,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Roman numeral for 50 is ____.
+ Answer: ",50,ĠV,50,ĠI,2,2,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Declaration of Independence was signed in ____.
+ Answer: ",177,177,177,177,177,177,178,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year World War II ended was ____.
+ Answer: ",194,194,194,194,194,194,194,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Canada is ____.
+ Answer: ",ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠCanada,ĠCanada,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Logical and Common Sense
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,1,1,1,1,Ġ
+"Using Answer Using one word only :  The opposite of hot is ____.
+ Answer: ",Ġcold,Ġcold,Ġcold,Ġcold,Ġcold,Ġcold,Ġcold,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary color mixed with blue to make green is ____.
+ Answer: ",1,1,2,1,1,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A triangle has ____ sides.
+ Answer: ",4,3,3,3,3,6,3,2,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  When water freezes, it becomes ____.
+ Answer: ",Ġice,Ġice,Ġice,Ġice,Ġice,Ġice,ĠIce,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A person who studies the stars is called an ____.
+ Answer: ",ĠAstr,ĠAstr,ĠAstr,1,1,ĠA,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The synonym for happy is ____.
+ Answer: ",Ġhappy,1,Ġhappy,Ġhappy,Ġhappy,Ġhappy,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  An animal known for its black and white stripes is a ____.
+ Answer: ",2,2,2,2,1,1,1,1,1,1,ĠAnswer,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency used in the United Kingdom is the ____.
+ Answer: ",ĠPound,ĠThe,ĠThe,ĠBritish,ĠBritish,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If it is 3 PM now, one hour later it will be ____.
+ Answer: ",6,6,6,6,6,6,2,2,1,1,1,1,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  The plural of ""child"" is ____.
+ Answer: ",Ġchildren,Ġchildren,Ġchildren,Ġchildren,Ġchildren,Ġchildren,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Word Completion
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠQuestion,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  The ____ is shining brightly today. (sun)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The house is painted ____. (blue)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  He always reads before going to ____. (bed)
+ Answer: ",1,1,1,1,Ġbed,Ġbed,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The train arrived at the ____ on time. (station)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A cat says ____. (meow)
+ Answer: ",1,1,1,1,2,1,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The moon looks ____ tonight. (bright)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The baby was ____ softly. (sleeping)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  This cake is very ____. (delicious)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThis,1,1,Ġ
+"Using Answer Using one word only :  I bought a new ____ yesterday. (phone)
+ Answer: ",1,1,1,1,ĠI,1,1,1,1,1,1,ĠI,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  The sky is full of ____ at night. (stars)
+ Answer: ",Ġstars,ĠThe,ĠStars,1,1,Ġstars,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Challenging Questions
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠQuestion,ĠQuestion,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  The first element on the periodic table is ____.
+ Answer: ",1,1,1,1,1,ium,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The human body has ____ bones.
+ Answer: ",2,2,5,1,2,5,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  1 kilogram is equal to ____ grams.
+ Answer: ",100,1,Ġ,1,1,1,1,1,1,1,1,1,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The SI unit of temperature is ____.
+ Answer: ",ĠKelvin,ĠKelvin,ĠKelvin,ĠKelvin,ĠKelvin,ĠC,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Earth revolves around the ____.
+ Answer: ",ĠSun,ĠSun,ĠSun,ĠSun,ĠSun,ĠEarth,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A right angle is ____ degrees.
+ Answer: ",90,90,90,90,90,90,2,2,1,1,1,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first computer programmer was Ada ____.
+ Answer: ",1,1,ĠAda,ĠAda,ĠAda,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Odyssey"" was ____.
+ Answer: ",ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Australia is ____.
+ Answer: ",ĠCanberra,ĠSydney,ĠSydney,ĠCanberra,ĠNew,ĠAustralia,ĠAustralia,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of light is approximately 3 x ____ m/s.
+ Answer: ",299,3,3,3,3,3,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  15 ÷ 3 = ____.
+ Answer: ",5,5,5,5,6,6,6,6,1,1,1,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  9 × 9 = ____.
+ Answer: ",81,81,Ġ,Ġ,36,9,9,8,9,10,9,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  18 + 7 = ____.
+ Answer: ",Ġ,25,Ġ,Ġ,21,Ġ,6,6,6,Ġ,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  40 − 8 = ____.
+ Answer: ",32,Ġ,Ġ,Ġ,2,Ġ,8,6,10,10,10,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The area of a circle is πr², where r is the ____.
+ Answer: ",Ġdiameter,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  10 squared is ____.
+ Answer: ",100,Ġ,Ġ,Ġ,16,10,8,2,1,10,10,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  1 + 2 × 3 = ____.
+ Answer: ",6,6,Ġ,6,6,6,6,6,1,1,1,1,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The sum of angles in a triangle is ____ degrees.
+ Answer: ",180,60,90,90,90,90,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If 2x = 10, then x = ____.
+ Answer: ",2,2,2,2,2,2,1,2,2,1,1,2,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  0.25 as a percentage is ____%.
+ Answer: ",0,0,Ġ,0,0,0,0,1,1,1,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  Advanced and Specific
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠQuestion,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  The square of 12 is ____.
+ Answer: ",144,144,144,144,36,8,4,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Egypt is ____.
+ Answer: ",ĠCairo,ĠCairo,ĠThe,ĠCairo,ĠCairo,ĠCairo,ĠEgypt,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The programming language developed by Guido van Rossum is ____.
+ Answer: ",ĠPython,ĠPython,ĠPython,ĠPython,ĠPython,ĠPython,ĠPython,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A group of lions is called a ____.
+ Answer: ",Ġpride,1,1,Ġa,2,1,1,1,1,1,1,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of a caterpillar becoming a butterfly is called ____.
+ Answer: ",Ġmetam,Ġmetam,Ġmetam,Ġmetam,Ġmetam,Ġmetam,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The boiling point of water in Fahrenheit is ____.
+ Answer: ",212,100,32,32,32,32,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Pythagorean theorem is a² + b² = ____.
+ Answer: ",4,4,3,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The distance around a circle is called the ____.
+ Answer: ",Ġcircumference,2,Ġcircumference,2,Ġcircumference,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency of India is the ____.
+ Answer: ",ĠRu,ĠRu,ĠRu,ĠRu,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The symbol for the speed of light in physics is ____.
+ Answer: ",299,299,3,Ġlight,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Italy is ____
+ Answer: ",rome,rome,ĠRome,ĠRome,ĠRome,ĠRome,ĠItaly,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest ocean on Earth is the ____
+ Answer: ",ĠThe,ĠPacific,ĠO,ĠOcean,ĠOcean,Ġocean,ĠAntarctica,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Ice melts at ____ degrees Celsius
+ Answer: ",0,0,0,0,0,2,0,1,1,1,1,1,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for silver is ____
+ Answer: ",ĠAg,ĠAg,ĠAg,ĠAg,Ġsilver,Ġsilver,Ġsilver,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Pyramids of Giza are located in ____
+ Answer: ",ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency of the United Kingdom is the ____
+ Answer: ",ĠPound,ĠPound,ĠPound,ĠBritish,ĠPound,ĠBritish,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The second largest river in the world is the ____
+ Answer: ",ĠAmazon,ĠAmazon,ĠNile,ĠNile,ĠNile,ĠThe,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest building in the world is the ____
+ Answer: ",ĠBur,ĠBur,ĠBur,ĠThe,ĠTower,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary language spoken in Argentina is ____
+ Answer: ",ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠEnglish,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of hydrogen is ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  6 + 4 = ____
+ Answer: ",10,10,10,10,8,Ġ,6,2,6,6,6,Ġ,2,Ġ,Ġ,1,Ġ
+"Using Answer Using one word only :  15 ÷ 3 = ____
+ Answer: ",5,5,5,5,6,6,6,6,1,1,1,Ġ,Ġ,Ġ,Ġ,1,Ġ
+"Using Answer Using one word only :  The square root of 25 is ____
+ Answer: ",5,5,5,5,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  9 × 6 = ____
+ Answer: ",36,54,54,54,24,Ġ,6,6,10,1,1,Ġ,Ġ,Ġ,1,1,Ġ
+"Using Answer Using one word only :  30 − 14 = ____
+ Answer: ",Ġ,16,Ġ,6,2,16,6,6,10,1,1,Ġ,Ġ,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The area of a square with side length 7 is ____
+ Answer: ",49,49,49,14,13,8,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a rectangle with length 8 and width 6 is ____
+ Answer: ",24,24,16,16,16,6,8,2,2,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube root of 64 is ____
+ Answer: ",8,8,8,16,16,2,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If x = 5, then 3x + 2 = ____
+ Answer: ",7,7,7,7,6,2,6,2,2,1,3,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  200 − 50 × 4 = ____
+ Answer: ",100,Ġ,Ġ,200,200,5,6,6,5,Ġ,1,Ġ,Ġ,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The Taj Mahal is located in ____
+ Answer: ",ĠA,ĠA,ĠA,ĠTaj,ĠTaj,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Mount Everest is in the ____ mountain range
+ Answer: ",ĠHimal,ĠHimal,ĠHimal,ĠHimal,ĠHimal,ĠHimal,ĠMount,ĠMount,ĠMount,ĠMount,ĠMount,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Spain is ____
+ Answer: ",ĠMadrid,ĠMadrid,ĠMadrid,ĠMadrid,ĠMadrid,ĠMadrid,ĠSpain,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Amazon rainforest is primarily in ____
+ Answer: ",ĠSouth,ĠSouth,ĠAmazon,ĠSouth,ĠAmazon,ĠAmazon,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Sahara is the largest ____ in the world
+ Answer: ",Ġdesert,Ġdesert,Ġdesert,ĠDesert,ĠSahara,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Barrier Reef is found near ____
+ Answer: ",ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Canada is ____
+ Answer: ",ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠCanada,ĠCanada,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Eiffel Tower is located in ____
+ Answer: ",ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest planet in the solar system is ____
+ Answer: ",ĠUran,1,ĠMercury,ĠMercury,ĠMars,ĠVenus,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Sun is a type of ____
+ Answer: ",Ġstar,Ġstar,ĠSun,ĠPlan,ĠPlan,ĠPlan,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Photosynthesis produces ____ as a byproduct
+ Answer: ",Ġglucose,ĠCO,ĠCO,ĠCO,ĠCO,Ġcarbon,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of a solid turning directly into a gas is called ____
+ Answer: ",ĠComb,2,2,2,1,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest particle of an element is an ____
+ Answer: ",Ġatom,Ġatom,Ġatom,Ġatom,Ġatom,Ġatom,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Lightning is caused by electrical ____
+ Answer: ",ĠDis,ĠDis,ĠLightning,ĠLightning,ĠLightning,ĠLightning,ĠLightning,ĠLightning,1,1,1,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Humans breathe in oxygen and exhale ____
+ Answer: ",ĠCarbon,Ġcarbon,ĠOxygen,ĠOxygen,ĠOxygen,ĠOxygen,2,1,1,1,1,ĠAnswer,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary gas in Earth's atmosphere is ____
+ Answer: ",ĠNit,ĠNit,ĠNit,ĠNit,ĠCO,Ġair,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Milky Way is a ____
+ Answer: ",ĠGalaxy,ĠGalaxy,ĠMilky,ĠMilky,ĠPlan,ĠPlan,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The closest star to Earth is the ____
+ Answer: ",ĠPro,ĠPro,ĠPro,1,1,ĠVenus,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The hardest natural substance on Earth is ____
+ Answer: ",1,Ġdiamond,1,ĠMarble,1,ĠEarth,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest desert on Earth is the ____
+ Answer: ",ĠSahara,ĠSahara,Ġdes,ĠSahara,ĠSahara,ĠSahara,ĠSahara,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Russia is ____
+ Answer: ",ĠMoscow,ĠMoscow,ĠMoscow,ĠMoscow,ĠMoscow,ĠMoscow,ĠMoscow,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Mona Lisa was painted by ____
+ Answer: ",ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠLeonardo,ĠMichel,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Titanic sank in ____
+ Answer: ",4,4,4,ĠThe,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first man in space was Yuri ____
+ Answer: ",1,ĠYuri,ĠYuri,ĠYuri,ĠYuri,ĠYuri,ĠYuri,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year the Berlin Wall fell was ____
+ Answer: ",198,198,198,198,198,198,198,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Australia is ____
+ Answer: ",ĠCanberra,ĠSydney,ĠSydney,ĠCanberra,ĠNew,ĠAustralia,ĠAustralia,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of sound in air is approximately ____ m/s
+ Answer: ",340,340,340,1,1,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A triangle has ____ sides
+ Answer: ",4,3,3,3,3,3,3,2,1,1,1,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The boiling point of water in Kelvin is ____
+ Answer: ",273,273,273,0,273,0,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The freezing point of water in Fahrenheit is ____
+ Answer: ",32,32,32,32,32,32,0,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A rectangle has ____ right angles
+ Answer: ",4,4,4,4,2,2,2,2,1,1,1,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical formula for water is ____
+ Answer: ",ĠH,ĠH,ĠH,ĠH,2,2,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The element with atomic number 1 is ____
+ Answer: ",1,1,1,1,Ġhydrogen,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square of 15 is ____
+ Answer: ",225,225,225,25,25,16,16,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube of 3 is ____
+ Answer: ",27,9,9,9,6,3,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square root of 144 is ____
+ Answer: ",8,8,8,16,16,2,4,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The product of 12 and 11 is ____
+ Answer: ",121,121,13,13,13,7,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sum of 45 and 36 is ____
+ Answer: ",90,90,60,60,45,16,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If x = 10, then 5x − 3 = ____
+ Answer: ",5,2,5,5,5,2,6,6,5,5,5,1,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The area of a circle is πr², where r is the ____
+ Answer: ",Ġcircumference,Ġdiameter,2,2,Ġradius,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a square with side 9 is ____
+ Answer: ",36,36,36,36,36,8,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Brazil is ____
+ Answer: ",ĠBras,ĠBras,ĠBras,ĠBras,ĠSÃ£o,ĠSÃ£o,ĠSÃ£o,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest island in the world is ____
+ Answer: ",ĠAustralia,ĠAustralia,ĠAustralia,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary language spoken in Mexico is ____
+ Answer: ",ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠSpanish,ĠEnglish,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Amazon River flows into the ____ Ocean
+ Answer: ",ĠThe,ĠThe,ĠAmazon,ĠThe,ĠAmazon,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The longest day of the year is called the ____
+ Answer: ",1,ĠSol,ĠSol,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of planets in the solar system is ____
+ Answer: ",8,9,1,6,2,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Wall of China was built during the ____ dynasty
+ Answer: ",1,1,ĠTang,ĠMing,1,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of carbon is ____
+ Answer: ",6,6,6,6,6,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest waterfall in the world is ____
+ Answer: ",1,ĠNiagara,ĠNiagara,ĠNiagara,ĠFalls,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national animal of the United States is the ____
+ Answer: ",ĠThe,ĠThe,ĠBison,ĠBison,1,ĠAmerican,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The inventor of the light bulb was Thomas ____
+ Answer: ",ĠEdison,ĠEdison,ĠEdison,ĠEdison,ĠEdison,ĠEdison,ĠThomas,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year the Wright brothers flew their first airplane was ____
+ Answer: ",190,190,190,190,191,191,191,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Roman numeral for 100 is ____
+ Answer: ",100,ĠV,4,ĠI,ĠRoman,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest land animal is the ____
+ Answer: ",ĠElephant,ĠElephant,ĠElephant,Ġelephant,Ġelephant,Ġelephant,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest bird in the world is the ____
+ Answer: ",ĠThe,1,ĠPar,ĠPar,ĠA,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The deepest part of the ocean is the ____ Trench
+ Answer: ",ĠThe,1,1,2,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The human body has ____ pairs of chromosomes
+ Answer: ",2,2,2,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest mountain in Africa is Mount ____
+ Answer: ",1,ĠKil,ĠKil,ĠMount,ĠMount,ĠMount,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process by which plants make food is called ____
+ Answer: ",ĠPhotos,ĠPhotos,ĠPhotos,ĠPhotos,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The part of the plant that absorbs water is the ____
+ Answer: ",Ġstem,ĠLeaf,ĠLeaves,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical formula for salt is ____
+ Answer: ",ĠNa,ĠNa,ĠNa,ĠNa,ĠNa,Ġsodium,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of South Korea is ____
+ Answer: ",ĠSeoul,ĠSeoul,ĠSeoul,ĠSeoul,ĠSeoul,ĠSeoul,ĠSeoul,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest country in the world by area is ____
+ Answer: ",ĠAustralia,ĠRussia,1,ĠRussia,ĠChina,ĠChina,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest continent in the world is ____
+ Answer: ",ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national flower of Japan is the ____
+ Answer: ",1,ĠThe,ĠHib,1,ĠJapanese,ĠJapanese,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Roman numeral for 500 is ____
+ Answer: ",500,ĠV,ĠI,ĠI,5,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of light is approximately 3 x ____ m/s
+ Answer: ",299,3,3,3,3,3,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first computer programmer was Ada ____
+ Answer: ",1,ĠLov,ĠAda,ĠAda,ĠAda,ĠAda,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Iliad"" was ____
+ Answer: ",ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Turkey is ____
+ Answer: ",ĠAnkara,ĠIstanbul,ĠIstanbul,ĠIstanbul,ĠIstanbul,ĠIstanbul,ĠIstanbul,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Pythagorean theorem applies to a ____ triangle
+ Answer: ",2,2,2,Ġright,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of New Zealand is ____
+ Answer: ",ĠWellington,ĠWellington,ĠWellington,ĠWellington,ĠNew,ĠNew,ĠAuckland,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national bird of India is the ____
+ Answer: ",ĠThe,ĠBhar,ĠBhar,ĠBhar,ĠBhar,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The periodic table was created by Dmitri ____
+ Answer: ",ĠMend,ĠMend,ĠDmit,ĠMend,ĠDmit,ĠDmit,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The boiling point of mercury is ____ degrees Celsius
+ Answer: ",273,0,0,0,0,2,0,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Pyramid of Giza is located in ____
+ Answer: ",ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest star known to humanity is ____
+ Answer: ",1,1,1,1,1,ĠVenus,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for copper is ____
+ Answer: ",ĠCu,ĠCu,ĠCu,ĠCu,ĠCu,ĠCu,Ġcopper,2,2,2,2,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest tree species is the ____
+ Answer: ",1,ĠE,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Roman god of war is ____
+ Answer: ",ĠMars,ĠMars,ĠMars,ĠA,ĠA,ĠThe,ĠRoman,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A group of fish is called a ____
+ Answer: ",ĠFish,Ġa,ĠA,1,2,Ġa,1,1,1,1,1,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The SI unit of energy is the ____
+ Answer: ",ĠJou,ĠJou,ĠJou,ĠJou,ĠJou,ĠJou,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of the Netherlands is ____
+ Answer: ",ĠAmsterdam,ĠAmsterdam,ĠAmsterdam,ĠAmsterdam,ĠAmsterdam,ĠAmsterdam,ĠAmsterdam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest city in the United States is ____
+ Answer: ",ĠNew,ĠNew,ĠNew,ĠNew,ĠNew,ĠNew,ĠChicago,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The most spoken language in the world is ____
+ Answer: ",ĠEnglish,ĠEnglish,ĠEnglish,ĠEnglish,ĠEnglish,ĠEnglish,ĠEnglish,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national dish of Italy is ____
+ Answer: ",ĠPasta,ĠPasta,ĠPasta,Ġpasta,Ġpasta,Ġpasta,ĠItalian,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The national flag of France is colored ____
+ Answer: ",Ġblue,ĠRed,2,1,ĠThe,Ġblue,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical element with symbol Na is ____
+ Answer: ",1,1,1,ĠNa,ĠNa,2,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The distance from the Earth to the Sun is ____ million kilometers
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The freezing point of alcohol in Celsius is ____
+ Answer: ",273,0,273,32,0,0,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of turning vapor back into liquid is ____
+ Answer: ",ĠVapor,Ġcond,ĠVapor,Ġvapor,Ġvapor,Ġvapor,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The hottest planet in the solar system is ____
+ Answer: ",ĠUran,ĠJupiter,ĠUran,ĠVenus,ĠVenus,ĠVenus,ĠVenus,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest volcano in the solar system is located on ____
+ Answer: ",ĠMars,ĠMars,ĠMars,ĠMars,ĠMars,ĠMars,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The unit of electric current is the ____
+ Answer: ",ĠAmp,ĠAmp,ĠAmp,ĠAmp,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of helium is ____
+ Answer: ",2,2,2,4,1,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest unit of digital storage is a ____
+ Answer: ",512,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A byte is equal to ____ bits
+ Answer: ",8,8,8,8,8,8,8,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first programming language was called ____
+ Answer: ",ĠBASIC,ĠBASIC,ĠBASIC,ĠBASIC,ĠBASIC,ĠC,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest state in the United States is ____
+ Answer: ",1,ĠAlaska,ĠAlaska,ĠAlaska,ĠAlaska,ĠAlaska,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest lake in the world by area is ____
+ Answer: ",1,ĠLake,ĠLake,ĠLake,ĠLake,ĠLake,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Norway is ____
+ Answer: ",ĠOslo,ĠOslo,ĠOslo,ĠOslo,ĠOslo,ĠOslo,ĠOslo,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of oxygen is ____
+ Answer: ",8,16,16,6,6,6,6,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The area of a triangle is calculated as ____
+ Answer: ",1,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Pythagorean theorem is written as ____
+ Answer: ",1,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The angle sum of a triangle is ____ degrees
+ Answer: ",90,90,90,90,90,90,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The circumference of a circle is given by the formula ____
+ Answer: ",2,2,2,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square root of 81 is ____
+ Answer: ",9,9,9,9,8,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A parallelogram has opposite angles that are always ____
+ Answer: ",90,90,90,90,90,90,2,1,1,1,1,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of sides in a pentagon is ____
+ Answer: ",5,5,5,5,5,6,4,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of π (pi) approximately equals ____
+ Answer: ",3,3,3,3,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest prime number is ____
+ Answer: ",2,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Fibonacci sequence starts with ____ and ____
+ Answer: ",1,0,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The total number of degrees in a quadrilateral is ____
+ Answer: ",12,4,4,4,4,4,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A right-angled triangle has one angle equal to ____ degrees
+ Answer: ",90,60,30,90,90,90,2,2,1,1,1,ĠAnswer,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for the area of a circle is ____
+ Answer: ",ĠÏĢ,2,ĠÏĢ,ĠÏĢ,2,2,2,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest prime number less than 20 is ____
+ Answer: ",13,17,5,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The least common multiple of 4 and 6 is ____
+ Answer: ",12,12,12,2,2,6,2,2,2,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The factorial of 5 is ____
+ Answer: ",120,120,5,25,5,1,5,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The golden ratio is approximately equal to ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year the Berlin Wall fell was ____
+ Answer: ",198,198,198,198,198,198,198,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Battle of Waterloo took place in ____
+ Answer: ",181,181,181,181,ĠWaterloo,ĠWaterloo,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first emperor of Rome was ____
+ Answer: ",ĠAugust,ĠAugust,ĠAugust,ĠAugust,1,ĠRoman,ĠRoman,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Fire of London occurred in ____
+ Answer: ",166,166,166,166,166,2,ĠLondon,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first manned moon landing was in the year ____
+ Answer: ",196,196,196,196,196,196,196,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Magna Carta was signed in the year ____
+ Answer: ",121,121,121,121,13,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The inventor of the telephone was ____
+ Answer: ",ĠAlexander,ĠAlexander,ĠAlexander,ĠAlexander,ĠAlexander,ĠJohn,ĠJohn,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tallest mountain in the world is ____
+ Answer: ",ĠMount,ĠMount,ĠMount,ĠMount,ĠMount,ĠMount,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Sahara Desert is located on the continent of ____
+ Answer: ",ĠAfrica,ĠAfrica,ĠAfrica,ĠAfrica,ĠAfrica,ĠAfrica,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Japan is ____
+ Answer: ",ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠJapan,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Amazon River is located in ____
+ Answer: ",ĠSouth,ĠSouth,ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The longest river in the world is ____
+ Answer: ",1,ĠYang,1,ĠYang,ĠYang,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency used in Brazil is ____
+ Answer: ",ĠReal,ĠReal,ĠReal,ĠBrazilian,ĠBrazilian,ĠBrazilian,ĠBrazilian,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Wall of China was built to protect against invasions from the ____
+ Answer: ",ĠNorth,ĠNorth,ĠNorth,ĠNorth,ĠNorth,ĠChina,ĠChina,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process by which plants make food is called ____
+ Answer: ",ĠPhotos,ĠPhotos,ĠPhotos,ĠPhotos,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The freezing point of water in Celsius is ____
+ Answer: ",273,273,273,32,273,273,0,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The boiling point of water in Fahrenheit is ____
+ Answer: ",212,212,32,32,32,32,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for gold is ____
+ Answer: ",ĠAu,ĠAu,ĠAu,ĠAu,ĠGold,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical formula for water is ____
+ Answer: ",ĠH,ĠH,ĠH,ĠH,2,2,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first element in the periodic table is ____
+ Answer: ",1,1,1,Ġelement,Ġelement,ium,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic mass of carbon is approximately ____
+ Answer: ",12,12,12,12,6,6,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of light in a vacuum is ____ meters per second
+ Answer: ",299,299,299,299,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The acceleration due to gravity on Earth is ____ m/s²
+ Answer: ",9,9,9,9,1,0,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest bone in the human body is the ____
+ Answer: ",1,1,1,ĠThe,Ġbone,Ġbone,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest organ in the human body is the ____
+ Answer: ",ĠHeart,ĠThe,0,ĠThe,Ġliver,Ġlungs,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The human body has ____ chromosomes
+ Answer: ",2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The organ responsible for pumping blood is the ____
+ Answer: ",ĠHeart,ĠHeart,Ġheart,Ġheart,ĠThe,Ġblood,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of cell division is known as ____
+ Answer: ",ĠMit,ĠMit,1,1,1,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The powerhouse of the cell is called the ____
+ Answer: ",ĠN,ĠN,ĠN,Ġnucleus,Ġmitochond,Ġmitochond,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A binary tree with 3 levels has a maximum of ____ nodes
+ Answer: ",4,3,3,3,3,2,3,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The binary representation of the decimal number 5 is ____
+ Answer: ",111,101,111,111,0,2,1,1,5,5,5,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A kilobyte is equal to ____ bytes
+ Answer: ",102,102,102,102,1,2,1,2,1,1,1,1,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ASCII stands for ____
+ Answer: ",ĠASCII,8,ĠASCII,ĠASCII,ĠASCII,ĠASCII,ĠASCII,1,1,1,1,ĠAnswer,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  A stack operates on the principle of ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The base of the natural logarithm is ____
+ Answer: ",1,2,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  2x+3=7 is ____
+ Answer: ",2,3,3,3,2,2,6,2,7,7,7,2,2,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The square of the hypotenuse in a right triangle equals the sum of the squares of the other two sides, known as ____
+ Answer: ",ĠPy,ĠPy,ĠPy,ĠPy,ĠPy,2,2,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a rectangle with length 5 and width 3 is ____
+ Answer: ",12,12,15,12,6,6,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sum of the first 10 natural numbers is ____
+ Answer: ",21,21,21,20,20,5,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest two-digit prime number is ____
+ Answer: ",11,11,7,7,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The height of a cone is required to calculate its ____
+ Answer: ",2,2,2,2,2,3,3,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The shape with 12 edges and 8 vertices is a ____
+ Answer: ",ĠPolygon,ĠHex,ĠPoly,4,ĠPolygon,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The measure of a straight angle is ____ degrees
+ Answer: ",180,60,90,90,90,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The slope of a line parallel to the x-axis is ____
+ Answer: ",1,1,0,1,0,0,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The roots of a quadratic equation are found using the ____ formula
+ Answer: ",1,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The measure of each angle in an equilateral triangle is ____ degrees
+ Answer: ",60,60,60,60,90,90,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The diagonal of a square with side length 4 is ____
+ Answer: ",8,8,8,8,4,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of cos(90°) is ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sum of angles in a pentagon is ____ degrees
+ Answer: ",60,60,60,90,45,90,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sine of 30 degrees is ____
+ Answer: ",45,0,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for the volume of a sphere is ____
+ Answer: ",4,4,4,3,3,3,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The derivative of sin(x) is ____
+ Answer: ",Ġcos,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The integral of 𝑒^𝑥𝑑𝑥 is ____
+ Answer: ",1,1,2,2,2,1,1,2,2,1,2,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year World War I began was ____
+ Answer: ",191,191,191,191,191,191,191,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Renaissance began in the ____ century
+ Answer: ",14,14,16,ĠRenaissance,ĠRenaissance,ĠRenaissance,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The explorer who discovered America in 1492 was ____
+ Answer: ",ĠChristopher,ĠChristopher,ĠColumbus,ĠChristopher,ĠColumbus,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Canada is ____
+ Answer: ",ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠOttawa,ĠCanada,ĠCanada,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The continent with the largest population is ____
+ Answer: ",1,ĠAfrica,1,ĠIndia,1,ĠChina,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The island nation known for its ""Ring of Fire"" is ____
+ Answer: ",ĠJapan,ĠJapan,ĠJapan,ĠJapan,ĠJapan,ĠJapan,ĠJapan,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Eiffel Tower is located in ____
+ Answer: ",ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,ĠParis,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest continent by land area is ____
+ Answer: ",ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Taj Mahal was built in the year ____
+ Answer: ",163,163,163,160,160,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Roman Colosseum is located in ____
+ Answer: ",ĠRome,ĠRome,ĠRome,ĠRome,ĠRome,ĠRome,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Barrier Reef is found in the country of ____
+ Answer: ",ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,ĠAustralia,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of log(1) is ____
+ Answer: ",1,0,1,0,0,0,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The reciprocal of 2 is ____
+ Answer: ",1,1,1,1,1,2,2,2,2,1,2,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A prime number greater than 2 is always ____
+ Answer: ",2,2,2,2,2,2,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube root of 64 is ____
+ Answer: ",8,8,8,16,16,2,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sum of the interior angles of a hexagon is ____ degrees
+ Answer: ",120,120,120,120,90,90,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The solution to 𝑥^2-3𝑥-4=0 is ____
+ Answer: ",2,2,2,2,2,2,2,2,2,1,2,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The product of two negative numbers is always ____
+ Answer: ",1,0,0,1,Ġ-,Ġ-,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The 10th term of the arithmetic sequence 2, 4, 6, ... is ____
+ Answer: ",8,8,8,6,6,3,4,2,2,2,2,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The decimal equivalent of 3/4 is ____
+ Answer: ",1,1,1,0,3,3,3,3,3,1,3,3,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first four digits of pi are ____
+ Answer: ",3,3,3,3,3,7,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square of -7 is ____
+ Answer: ",49,49,49,7,8,Ġ-,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of 2×10^3 is ____
+ Answer: ",1,2,2,6,2,2,2,2,2,2,2,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The area of a square with side 5 is ____
+ Answer: ",25,25,25,25,15,5,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of diagonals in a hexagon is ____
+ Answer: ",6,6,6,6,6,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube of 3 is ____
+ Answer: ",27,9,9,9,6,3,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The approximate value of 2 is ____
+ Answer: ",1,2,2,2,2,2,2,2,2,2,2,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The log base 10 of 1000 is ____
+ Answer: ",10,10,10,10,2,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The volume of a cylinder is calculated as ____
+ Answer: ",2,2,2,2,2,3,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The height of Mount Everest is ____ meters
+ Answer: ",29,29,29,884,8,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The longest wall in the world is ____
+ Answer: ",1,ĠThe,7,10,ĠThe,ĠThe,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first president of the United States was ____
+ Answer: ",ĠGeorge,ĠGeorge,ĠGeorge,ĠGeorge,ĠGeorge,ĠGeorge,ĠWilliam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year the Titanic sank was ____
+ Answer: ",191,191,191,191,191,191,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Cold War ended in the year ____
+ Answer: ",198,198,198,198,198,198,196,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The current population of the world is approximately ____ billion
+ Answer: ",7,7,7,1,1,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The planet closest to the sun is ____
+ Answer: ",ĠMars,ĠMercury,ĠMars,ĠVenus,ĠVenus,ĠVenus,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest planet in our solar system is ____
+ Answer: ",ĠJupiter,ĠJupiter,ĠJupiter,ĠJupiter,ĠJupiter,ĠVenus,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of moons Jupiter has is approximately ____
+ Answer: ",13,9,6,6,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for force in physics is ____
+ Answer: ",1,1,1,1,2,ĠForce,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The SI unit of power is ____
+ Answer: ",ĠJou,ĠJou,ĠJou,ĠWatt,ĠJou,ĠJou,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The atomic number of iron is ____
+ Answer: ",26,26,26,26,2,6,6,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for sodium is ____
+ Answer: ",ĠNa,ĠNa,ĠNa,ĠNa,ĠNa,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The boiling point of mercury is ____ degrees Celsius
+ Answer: ",273,0,0,0,0,2,0,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The scientist who discovered gravity was ____
+ Answer: ",ĠNewton,ĠNewton,ĠNewton,ĠNewton,ĠNewton,ĠNewton,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The father of modern physics is considered to be ____
+ Answer: ",ĠEinstein,ĠAlbert,ĠAlbert,1,ĠThomas,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of sound in air is approximately ____ m/s
+ Answer: ",340,340,340,1,1,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The human brain weighs about ____ kilograms
+ Answer: ",1,1,1,1,1,1,8,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The periodic table has ____ known elements
+ Answer: ",1,6,2,7,1,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The most abundant gas in Earth's atmosphere is ____
+ Answer: ",ĠNit,ĠNit,ĠNit,ĠCO,ĠCO,ĠCO,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The second largest country by land area is ____
+ Answer: ",ĠAustralia,1,1,ĠChina,ĠChina,ĠChina,ĠChina,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The River Nile flows through ____ countries
+ Answer: ",ĠEgypt,ĠEgypt,ĠEgypt,ĠEgypt,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The deepest ocean in the world is the ____
+ Answer: ",ĠThe,ĠThe,1,ĠThe,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital city of India is ____
+ Answer: ",ĠDelhi,ĠNew,ĠNew,ĠDelhi,ĠDelhi,ĠDelhi,ĠDelhi,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first successful powered flight was in the year ____
+ Answer: ",190,191,191,191,191,190,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of letters in the English alphabet is ____
+ Answer: ",26,26,26,26,26,26,7,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest even number is ____
+ Answer: ",2,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The product of the angles in a triangle is always ____
+ Answer: ",180,90,90,90,90,45,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The measure of a right angle is ____ degrees
+ Answer: ",90,90,90,90,90,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cosine of 0 degrees is ____
+ Answer: ",1,1,1,1,0,0,0,0,1,1,0,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The average of 5, 10, and 15 is ____
+ Answer: ",25,20,15,20,15,5,5,5,5,1,5,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The solution to 2x-8=0 is ____
+ Answer: ",2,2,2,2,2,2,2,2,2,2,2,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The radius of a circle is half its ____
+ Answer: ",Ġdiameter,Ġdiameter,2,2,Ġradius,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The radius of a circle is half its ____
+ Answer: ",Ġdiameter,Ġdiameter,2,2,Ġradius,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The diagonal of a cube is equal to ____
+ Answer: ",8,4,4,4,4,3,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest three-digit number is ____
+ Answer: ",100,9,9,100,2,10,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first four prime numbers are ____
+ Answer: ",2,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of edges in a cube is ____
+ Answer: ",36,6,6,6,6,3,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of 7! (7 factorial) is ____
+ Answer: ",504,504,504,7,7,2,7,7,7,7,7,7,3,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The equation of a straight line is given by ____
+ Answer: ",2,2,Ġy,Ġy,Ġy,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The SI unit of temperature is ____
+ Answer: ",ĠKelvin,ĠKelvin,ĠKelvin,ĠKelvin,ĠKelvin,ĠCelsius,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The freezing point of ethanol is ____ degrees Celsius
+ Answer: ",0,0,32,32,0,0,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The most common isotope of hydrogen is called ____
+ Answer: ",1,1,1,1,Ġhydrogen,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The universal gravitational constant is approximately ____
+ Answer: ",6,6,6,1,1,10,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year Albert Einstein published his theory of relativity was ____
+ Answer: ",190,190,191,191,191,191,191,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first human to travel into space was ____
+ Answer: ",1,1,1,1,1,ĠSpace,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The planet with the highest number of rings is ____
+ Answer: ",ĠUran,ĠUran,ĠUran,ĠJupiter,ĠJupiter,ĠVenus,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first law of thermodynamics states that energy cannot be ____ or ____
+ Answer: ",ĠCreated,Ġcreated,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Richter scale measures ____
+ Answer: ",10,6,ĠRicht,Ġmagnitude,Ġmagnitude,Ġmagnitude,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Australia is ____
+ Answer: ",ĠCanberra,ĠSydney,ĠSydney,ĠCanberra,ĠNew,ĠAustralia,ĠAustralia,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest rainforest in the world is ____
+ Answer: ",ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Empire State Building is located in ____
+ Answer: ",ĠNew,ĠNew,ĠNew,ĠNew,ĠManhattan,ĠManhattan,ĠManhattan,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Leaning Tower of Pisa is in the country of ____
+ Answer: ",ĠItaly,ĠItaly,ĠItaly,ĠItaly,ĠItaly,ĠItaly,ĠItaly,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Great Pyramids of Giza were built by the ____ civilization
+ Answer: ",ĠAncient,ĠAncient,1,1,1,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for potential energy is ____
+ Answer: ",1,1,1,1,1,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The kinetic energy of an object depends on its ____ and ____
+ Answer: ",1,1,Ġspeed,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The law of reflection states that the angle of incidence is equal to the angle of ____
+ Answer: ",90,90,90,90,90,45,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The speed of a wave is calculated as ____
+ Answer: ",2,2,2,2,2,2,Ġspeed,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The unit of electric current is ____
+ Answer: ",ĠAmp,ĠAmp,ĠAmp,ĠAmp,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The resistance of a conductor is measured in ____
+ Answer: ",ĠOh,ĠOh,ĠOh,ĠOh,ĠOh,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first programmable computer was invented in the year ____
+ Answer: ",194,194,194,194,196,196,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The founder of the company Apple was ____
+ Answer: ",ĠSteve,ĠSteve,ĠSteve,ĠSteve,ĠSteve,ĠSteve,ĠApple,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The binary value of the decimal number 8 is ____
+ Answer: ",1,2,1,1,0,8,8,1,8,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The smallest particle of an element is called ____
+ Answer: ",ĠAtom,ĠAt,Ġatom,Ġatom,Ġatom,Ġatom,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The SI unit of distance is ____
+ Answer: ",Ġmetre,1,1,ĠKil,Ġmetre,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of protons in hydrogen is ____
+ Answer: ",1,1,1,1,1,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Hubble Space Telescope was launched in ____
+ Answer: ",199,199,199,199,199,199,199,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The periodic table was first developed by ____
+ Answer: ",ĠDmit,ĠDmit,ĠDmit,ĠMend,ĠMend,ĠChemistry,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for the volume of a pyramid is ____
+ Answer: ",3,3,3,3,3,3,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest moon of Saturn is ____
+ Answer: ",ĠTitan,ĠTitan,ĠTitan,ĠTitan,ĠSaturn,ĠVenus,1,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year the Wright brothers flew was ____
+ Answer: ",190,190,190,190,191,191,191,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The hottest planet in the solar system is ____
+ Answer: ",ĠUran,ĠJupiter,ĠUran,ĠVenus,ĠVenus,ĠVenus,ĠVenus,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ancient city of Rome is located in ____
+ Answer: ",ĠItaly,ĠLat,ĠLat,ĠItaly,ĠItaly,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The year World War II ended was ____
+ Answer: ",194,194,194,194,194,194,194,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Statue of Liberty was gifted by ____
+ Answer: ",ĠFrance,ĠFrance,ĠFrance,ĠFrance,ĠFrance,ĠFrance,ĠFrance,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The most populous city in the world is ____
+ Answer: ",ĠNew,ĠNew,ĠNew,ĠNew,ĠLondon,ĠLondon,ĠChina,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The only continent without snakes is ____
+ Answer: ",ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of states in the USA is ____
+ Answer: ",50,50,48,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Taj Mahal was built by Emperor ____
+ Answer: ",ĠShah,ĠShah,ĠShah,ĠShah,ĠShah,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The capital of Italy is ____
+ Answer: ",rome,rome,ĠRome,ĠRome,ĠRome,ĠRome,ĠItaly,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Amazon rainforest is often called the ____ of the planet
+ Answer: ",ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,ĠAmazon,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of neutrons in carbon-12 is ____
+ Answer: ",6,6,6,6,6,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The planet known as the Red Planet is ____
+ Answer: ",ĠMars,ĠMars,ĠMars,ĠMars,ĠMars,ĠMars,ĠMars,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The most abundant metal on Earth is ____
+ Answer: ",ĠIron,ĠIron,ĠCopper,ĠCopper,ĠCopper,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The element with the highest melting point is ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The lowest temperature ever recorded on Earth was in ____
+ Answer: ",ĠAntarctica,188,1,ĠAntarctica,ĠAntarctica,ĠAntarctica,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The equation 𝑦=𝑚𝑥+𝑐 represents a ____
+ Answer: ",1,2,2,2,2,2,1,2,2,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  y=mx+c represents a ____
+ Answer: ",1,1,Ġy,Ġy,Ġy,Ġy,Ġy,2,1,1,1,1,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The first programming language designed was ____
+ Answer: ",ĠBASIC,ĠBASIC,ĠBASIC,ĠBASIC,ĠBASIC,ĠC,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A gigabyte is equal to ____ megabytes
+ Answer: ",102,1,102,1,1,2,2,1,1,1,1,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The value of tan(45°) is ____
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The solution to 4x=16 is ____
+ Answer: ",4,4,4,4,2,2,4,4,4,4,4,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a circle is also called the ____
+ Answer: ",Ġcircumference,Ġcircumference,Ġcircumference,Ġcircumference,Ġcircumference,Ġcircumference,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The unit circle has a radius of ____
+ Answer: ",1,1,1,1,2,1,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cosine rule is used for finding ____
+ Answer: ",ĠThe,ĠThe,2,2,Ġangles,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The formula for distance is ____
+ Answer: ",2,2,2,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first mechanical computer was invented by ____
+ Answer: ",ĠCharles,ĠCharles,ĠCharles,ĠJohn,ĠJohn,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The scientist who formulated the laws of motion was ____
+ Answer: ",ĠIsaac,ĠIsaac,ĠNewton,ĠNewton,ĠNewton,ĠNewton,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Naruto"" dreams of becoming the leader of his village, known as the ____.
+ Answer: ",ĠHok,ĠHok,ĠHok,ĠHok,ĠNaruto,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Dragon Ball Z,"" Goku transforms into a powerful warrior called ____ Saiyan.
+ Answer: ",ĠSuper,ĠSai,ĠSai,ĠSai,ĠSai,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The main character in ""Attack on Titan"" is named ____ Yeager.
+ Answer: ",ĠE,ĠE,ĠE,ĠE,ĠA,ĠThe,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The weapon used by Ichigo Kurosaki in ""Bleach"" is called ____.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠIch,Ġsword,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The anime ""One Piece"" follows the adventures of a pirate crew searching for the legendary treasure known as the ____.
+ Answer: ",ĠOne,ĠOne,Ġtreasure,Ġtreasure,Ġtreasure,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""My Hero Academia,"" Izuku Midoriya inherits a powerful Quirk called ____ for All.
+ Answer: ",ĠAbility,1,1,1,1,1,1,1,1,1,ĠIn,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The notebooks in ""Death Note"" have the ability to ____ anyone whose name is written in them.
+ Answer: ",Ġerase,Ġerase,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Edward Elric and his brother Alphonse practice ____ in ""Fullmetal Alchemist.""
+ Answer: ",Ġmagic,ĠAl,1,ĠThe,ĠThe,ĠD,ĠD,1,1,1,ĠEdward,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Demon Slayer,"" Tanjiro Kamado wields a sword that changes color based on its ____.
+ Answer: ",ĠFlame,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The anime ""Sword Art Online"" takes place in a ____ reality game.
+ Answer: ",ĠThe,ĠSecond,ĠSecond,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The giant robots in ""Neon Genesis Evangelion"" are called ____.
+ Answer: ",ĠEvangel,1,1,1,ĠGundam,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Tokyo Ghoul,"" Ken Kaneki becomes a half-____.
+ Answer: ",ĠGh,ĠGh,Ġhalf,ĠA,ĠA,ĠA,Ġ[,1,1,1,ĠIn,ĠIn,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The village where Naruto Uzumaki grows up is called ____ Village.
+ Answer: ",ĠKon,ĠK,ĠNaruto,ĠNaruto,ĠNaruto,ĠNaruto,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""One Punch Man,"" Saitama becomes the world's strongest hero but struggles with ____ boredom.
+ Answer: ",ĠWeak,1,1,1,ĠA,Ġboredom,ĠIn,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character Levi Ackerman in ""Attack on Titan"" is famous for his exceptional ____ skills.
+ Answer: ",ĠStrength,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Light Yagami in ""Death Note"" is pursued by a detective known only as ____.
+ Answer: ",ĠLight,ĠL,ĠLight,ĠLight,ĠLight,ĠThe,ĠThe,1,1,1,1,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Dragon Ball Z,"" Vegeta is the prince of the ____ race.
+ Answer: ",ĠSai,ĠSai,ĠDragon,ĠVeget,ĠEarth,ĠEarth,ĠThe,2,2,1,ĠIn,ĠIn,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Straw Hat Pirates' ship in ""One Piece"" is called the ____ Merry.
+ Answer: ",ĠStraw,ĠStraw,ĠStraw,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The main villain in ""Naruto"" is an organization called the ____.
+ Answer: ",ĠThe,ĠJ,ĠKon,ĠThe,ĠK,ĠThe,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""My Hero Academia,"" Katsuki Bakugo’s Quirk allows him to create ____ explosions.
+ Answer: ",ĠExplosion,1,1,1,ĠK,ĠA,1,1,1,1,ĠIn,ĠIn,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Real-Life Situations with Anime Characters
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Goku forgot his grocery list while shopping and accidentally bought ____ instead of milk.
+ Answer: ",Ġmilk,2,2,ĠThe,Ġmilk,1,1,1,1,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  Naruto missed the train to work because he stopped to help a lost ____.
+ Answer: ",ĠNaruto,2,2,1,1,1,1,1,1,1,1,ĠAnswer,1,1,1,1,Ġ
+"Using Answer Using one word only :  Mikasa was late for her meeting because she had to fight off a ____ in the subway.
+ Answer: ",ĠPanic,1,1,ĠThe,ĠA,ĠA,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Tanjiro and Nezuko helped their neighbor by fixing a broken ____.
+ Answer: ",Ġbridge,Ġdoor,Ġdoor,Ġa,ĠT,ĠT,1,1,1,ĠTan,ĠTan,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Levi cleaned the entire office after everyone left, using his famous ____ skills.
+ Answer: ",ĠAnswer,1,ĠClean,1,1,ĠScr,Ġhe,1,1,1,1,ĠThe,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  L from ""Death Note"" figured out the thief's identity just by analyzing the ____.
+ Answer: ",1,2,ĠD,ĠA,ĠL,ĠA,1,1,1,1,1,ĠThe,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Saitama joined a gym to improve his workout routine but left because it was too ____.
+ Answer: ",Ġboring,Ġboring,Ġboring,Ġboring,Ġboring,ĠA,1,1,1,1,1,ĠThe,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Eren Yeager accidentally broke his friend's phone while trying to ____.
+ Answer: ",1,1,1,1,ĠRe,ĠRe,Ġc,1,1,1,1,ĠThe,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Ichigo volunteered at a community center to teach ____ lessons.
+ Answer: ",Ġkar,Ġkar,Ġkar,Ġkar,ĠA,ĠIch,ĠIch,1,1,1,ĠIch,ĠAc,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Deku helped a child cross the street safely by using his knowledge of ____.
+ Answer: ",1,1,2,ĠThe,ĠD,ĠD,ĠAdapt,1,1,1,ĠDek,ĠThe,ĠThe,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  The capital city of Japan is ____.
+ Answer: ",ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠTokyo,ĠJapan,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The primary ingredient in sushi is ____.
+ Answer: ",Ġrice,ĠThe,Ġsushi,Ġsushi,Ġsushi,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The official language of France is ____.
+ Answer: ",ĠFrench,ĠFrench,ĠFrench,ĠFrench,ĠFrench,ĠFrench,ĠFrench,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Water freezes at ____ degrees Celsius.
+ Answer: ",0,0,0,0,0,2,0,2,2,1,ĠWater,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The opposite of ""hot"" is ____.
+ Answer: ",Ġcold,Ġcold,Ġcold,Ġcold,Ġcold,Ġcold,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The plural form of ""mouse"" is ____.
+ Answer: ",Ġmice,Ġmice,Ġmice,Ġmice,Ġmice,1,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A person who writes books is called an ____.
+ Answer: ",ĠWriter,1,1,1,1,ĠA,1,1,1,1,ĠA,ĠA,ĠAnswer,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The sun rises in the ____.
+ Answer: ",ĠEast,ĠEast,1,ĠThe,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A triangle has ____ sides.
+ Answer: ",4,3,3,3,3,6,3,2,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The chemical symbol for water is ____.
+ Answer: ",ĠH,ĠH,ĠH,ĠH,2,2,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of turning liquid into vapor is called ____.
+ Answer: ",ĠVapor,2,ĠVapor,ĠVapor,ĠVapor,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The fastest land animal is the ____.
+ Answer: ",ĠThe,2,ĠElephant,ĠThe,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A person who studies planets and stars is called an ____.
+ Answer: ",ĠAstr,ĠAstr,ĠAstr,ĠAstr,ĠAstr,ĠA,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The number of days in a leap year is ____.
+ Answer: ",29,29,29,4,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The planet closest to the sun is ____.
+ Answer: ",ĠVenus,1,1,ĠVenus,ĠVenus,ĠVenus,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The currency used in the United States is the ____.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest mammal in the world is the ____.
+ Answer: ",ĠThe,ĠElephant,ĠElephant,ĠElephant,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process plants use to make food is called ____.
+ Answer: ",ĠPhotos,1,1,1,2,Ġfermentation,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""Harry Potter"" is ____.
+ Answer: ",ĠJ,ĠJ,ĠJ,ĠJK,ĠRowling,ĠRowling,ĠRowling,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The largest continent on Earth is ____.
+ Answer: ",ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,ĠAntarctica,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Anime-Specific Themes (Advanced)
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The move ""Kamehameha"" was invented by ____ in ""Dragon Ball.""
+ Answer: ",ĠKak,ĠKak,ĠGoku,ĠGoku,ĠK,ĠK,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Naruto,"" the Fourth Hokage is also known as the Yellow ____ of the Leaf.
+ Answer: ",ĠHok,4,ĠSas,ĠHok,ĠNaruto,ĠThe,1,1,1,1,ĠIn,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The deadly poison used by Koro-Sensei in ""Assassination Classroom"" is derived from ____.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Phantom Troupe in ""Hunter x Hunter"" is led by ____.
+ Answer: ",ĠGon,ĠGon,ĠGon,ĠKu,ĠSh,ĠThe,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The legendary Pokémon found in ""Pokémon"" movies is ____.
+ Answer: ",ĠPikachu,ĠPikachu,ĠPikachu,ĠPikachu,ĠPikachu,ĠPokÃ©mon,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Luffy gains his powers in ""One Piece"" by eating a ____ Fruit.
+ Answer: ",ĠStraw,ĠBanana,ĠBanana,ĠStraw,ĠA,1,1,1,1,1,1,1,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  In ""Fairy Tail,"" Natsu Dragneel is known as the Fire Dragon ____.
+ Answer: ",ĠDragon,ĠDragon,ĠDragon,ĠDragon,ĠN,ĠDragon,1,1,1,1,1,ĠIn,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The school in ""My Hero Academia"" is called ____ Academy.
+ Answer: ",1,1,ĠAll,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Attack on Titan"" features walls named after female ____.
+ Answer: ",ĠTitans,"Ġ""","Ġ""","Ġ""","Ġ""","Ġ""","Ġ""",1,1,1,ĠAnswer,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  In ""Bleach,"" the Soul Society is governed by the ____ 13.
+ Answer: ",13,13,13,13,13,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Mixed Real-Life + Anime Characters
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Goku ran a marathon but stopped halfway to eat ____ with his friends.
+ Answer: ",Ġnoodles,1,1,1,Ġpizza,ĠThe,1,1,1,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  Naruto became a chef and created a signature dish called ____ Ramen.
+ Answer: ",ĠU,ĠRam,Ġramen,Ġramen,Ġramen,Ġramen,Ġramen,1,1,1,1,ĠAnswer,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Tanjiro helped design a neighborhood park shaped like a giant ____.
+ Answer: ",Ġdragon,ĠT,ĠDragon,ĠT,ĠT,ĠT,ĠT,1,1,ĠTan,ĠTan,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Mikasa worked as a detective, solving crimes using her unmatched ____ skills.
+ Answer: ",Ġintelligence,ĠDed,Ġdetective,Ġintelligence,Ġcunning,Ġcunning,ĠI,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Saitama opened a barbershop but quit because all his customers wanted ____ haircuts.
+ Answer: ",1,1,1,1,ĠA,ĠA,1,1,1,1,1,ĠThe,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  The result of 5+3 is ____.
+ Answer: ",8,8,6,6,6,6,6,2,1,1,1,5,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Subtracting 7 from 15 gives ____.
+ Answer: ",8,8,8,8,2,15,7,7,1,1,7,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Multiplying 6 by 4 gives ____.
+ Answer: ",24,24,24,20,6,8,6,6,6,6,6,1,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Dividing 16 by 4 gives ____.
+ Answer: ",4,4,4,4,2,2,6,2,2,1,1,2,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square of 5 is ____.
+ Answer: ",25,25,25,25,20,5,4,2,5,1,5,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  9−6+2 equals ____.
+ Answer: ",12,Ġ,Ġ,Ġ,6,6,6,6,9,9,9,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The sum of 12, 8, and 5 is ____.
+ Answer: ",25,21,21,20,15,6,6,6,2,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If you double 14, you get ____.
+ Answer: ",22,28,22,28,16,2,6,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Half of 18 is ____.
+ Answer: ",9,9,9,9,6,2,6,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  (three cubed) equals ____.
+ Answer: ",36,1,8,16,3,3,3,6,1,1,Ġ(,Ġ(,Ġ(,Ġ(,1,1,Ġ
+"Using Answer Using one word only :  The perimeter of a square with side length 4 is ____.
+ Answer: ",16,16,16,16,16,4,4,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If a train travels 60 miles per hour for 3 hours, it covers ____ miles.
+ Answer: ",120,120,120,120,60,6,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The area of a rectangle with a length of 10 and width of 5 is ____.
+ Answer: ",100,25,25,25,20,8,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  100−(25+30) equals ____.
+ Answer: ",100,Ġ,Ġ,Ġ,100,100,6,6,100,10,100,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The value of 2×(3+7) is ____.
+ Answer: ",15,9,12,12,13,2,2,2,2,1,2,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If 𝑥=4, the value of 2𝑥+3 is ____.
+ Answer: ",5,6,6,6,6,2,2,2,2,2,2,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The factorial of 4 is ____.
+ Answer: ",24,24,24,24,16,1,4,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  4! equals ____.
+ Answer: ",4,Ġ,24,24,6,Ġ,6,6,1,1,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  45 divided by 9 is ____.
+ Answer: ",5,5,5,5,5,5,6,1,1,1,1,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The least common multiple (LCM) of 3 and 4 is ____.
+ Answer: ",12,6,8,8,2,2,3,2,1,1,1,3,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The greatest common divisor (GCD) of 18 and 24 is ____.
+ Answer: ",6,6,6,6,2,2,7,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Anime-Related Arithmetic Questions
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠAnswer,ĠI,1,1,Ġ
+"Using Answer Using one word only :  If Naruto eats 3 bowls of ramen every hour, how many bowls does he eat in 5 hours? ____.
+ Answer: ",5,3,1,1,1,2,2,2,1,1,1,1,1,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  Luffy collects 15 berries per island. If he visits 6 islands, he collects ____ berries.
+ Answer: ",15,15,15,15,15,5,6,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Saitama defeats 4 monsters every minute. In 10 minutes, he defeats ____ monsters.
+ Answer: ",5,5,5,5,4,5,5,6,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If Goku trains for 8 hours a day for 7 days, he trains a total of ____ hours.
+ Answer: ",48,8,48,48,8,8,8,2,1,1,1,1,1,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  Mikasa has 10 blades, but 2 get damaged. She is left with ____ blades.
+ Answer: ",8,8,6,6,5,5,5,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Tanjiro and Nezuko hunt demons together, defeating 5 demons per night. In 3 nights, they defeat ____ demons.
+ Answer: ",5,5,5,5,5,5,1,1,1,1,ĠTan,1,1,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  Levi cleans 12 rooms in 3 hours. On average, he cleans ____ rooms per hour.
+ Answer: ",12,3,3,3,1,1,8,2,2,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  If Deku saves 2 people every 15 minutes, in 1 hour he saves ____ people.
+ Answer: ",15,2,2,2,2,2,2,2,2,1,1,1,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  The Z Warriors need 100 senzu beans for their group, but they only have 40. They need ____ more beans.
+ Answer: ",100,2,2,2,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  40. They need ____ more beans.
+ Answer: ",Ġ,Ġ,Ġ,Ġ,Ġ,Ġ,1,1,1,Ġ,Ġ,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The Straw Hat Pirates sail 50 miles per day. In 6 days, they travel ____ miles.
+ Answer: ",50,50,30,30,50,6,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  6 days, they travel ____ miles.
+ Answer: ",Ġ,Ġ,Ġ,Ġ,6,6,6,6,6,6,6,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  General Arithmetic Questions
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠQuestion,ĠQuestion,ĠGeneral,1,1,Ġ
+"Using Answer Using one word only :  8+6×2 equals ____.
+ Answer: ",12,Ġ,16,16,16,Ġ,8,6,8,8,8,Ġ,1,1,1,1,Ġ
+"Using Answer Using one word only :  The result of 10^2 is ____.
+ Answer: ",100,100,100,100,10,10,10,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  10^2 is ____.
+ Answer: ",100,Ġ,Ġ,Ġ,16,10,10,2,10,10,10,Ġ,2,Ġ,1,1,Ġ
+"Using Answer Using one word only :  A triangle with sides 3, 4, 5 has a perimeter of ____.
+ Answer: ",12,15,15,15,6,6,3,3,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A triangle with sides 3, 4, 5 has a perimeter of ____.
+ Answer: ",12,15,15,15,6,6,3,3,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cube root of 27 is ____.
+ Answer: ",9,3,3,3,6,2,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  27 is ____.
+ Answer: ",Ġ,Ġ,Ġ,1,2,2,1,1,1,1,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  7×9 equals ____.
+ Answer: ",Ġ,Ġ,Ġ,Ġ,72,Ġ,8,6,7,Ġ,Ġ,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  The sum of the angles in a triangle is always ____ degrees.
+ Answer: ",180,90,90,90,90,90,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cost of 5 items at 12 dollars each is ____ dollars.
+ Answer: ",25,25,25,25,15,1,6,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The cost of 5 items at 12 dollars each is ____ dollars.
+ Answer: ",25,25,25,25,15,1,6,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If a rectangle has a length of 8 and a width of 3, its area is ____ square units.
+ Answer: ",16,24,24,24,16,8,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  If a rectangle has a length of 8 and a width of 3, its area is ____ square units.
+ Answer: ",16,24,24,24,16,8,8,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  15÷(3+2) equals ____.
+ Answer: ",5,Ġ,Ġ,Ġ,6,6,6,6,5,10,1,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  A car travels 90 kilometers in 2 hours. Its speed is ____ kilometers per hour.
+ Answer: ",60,60,60,30,2,2,2,2,1,1,1,1,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Mixed Scenarios
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠQuestion,ĠI,1,1,Ġ
+"Using Answer Using one word only :  If Luffy’s ship can hold 20 barrels of water and they use 5 barrels per day, the water lasts for ____ days.
+ Answer: ",5,5,5,5,2,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Tanjiro buys 3 swords, each costing 15 coins. He spends a total of ____ coins.
+ Answer: ",15,15,15,30,30,5,20,2,1,1,1,1,1,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  Saitama finishes 4 push-ups every 10 seconds. In 1 minute, he completes ____ push-ups.
+ Answer: ",100,4,4,4,4,5,6,6,1,1,1,1,ĠThe,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Naruto learns 2 new jutsu per month. After 6 months, he has learned ____ jutsu.
+ Answer: ",2,2,2,2,2,2,2,2,1,1,1,ĠAnswer,1,1,1,1,Ġ
+"Using Answer Using one word only :  If Eren eats 3 loaves of bread per day, in 7 days he eats ____ loaves.
+ Answer: ",7,7,7,7,6,2,8,2,1,1,1,ĠThe,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  If Eren eats 3 loaves of bread per day, in 7 days he eats ____ loaves.
+ Answer: ",7,7,7,7,6,2,8,2,1,1,1,ĠThe,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  Goku does 500 sit-ups daily. In a week, he completes ____ sit-ups.
+ Answer: ",500,500,500,500,500,5,5,1,1,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  If Deku can lift 80 kg and Bakugo can lift 120 kg, their combined lift is ____ kg.
+ Answer: ",120,160,120,120,120,2,8,2,2,1,1,ĠThe,ĠThe,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  Ichigo takes 2 hours to complete a mission. If he has 5 missions, he takes ____ hours in total.
+ Answer: ",5,2,2,2,2,5,8,1,1,1,ĠIch,1,1,ĠI,1,1,Ġ
+"Using Answer Using one word only :  Levi earns 15 points per clean room. If he cleans 8 rooms, he earns ____ points.
+ Answer: ",15,15,15,120,15,5,8,2,1,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  Levi earns 15 points per clean room. If he cleans 8 rooms, he earns ____ points.
+ Answer: ",15,15,15,120,15,5,8,2,1,1,1,1,1,1,1,1,Ġ
+"Using Answer Using one word only :  If Nezuko can run 8 miles per hour, she covers ____ miles in 4 hours.
+ Answer: ",4,4,4,4,8,8,8,8,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Arithmetic with Fractions and Percentages
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Half of 50 is ____.
+ Answer: ",25,25,25,25,25,2,6,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  25% of 80 is ____.
+ Answer: ",40,Ġ,Ġ,16,20,20,25,2,5,10,5,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  80 is ____.
+ Answer: ",Ġ,Ġ,Ġ,1,Ġ,Ġ,1,1,1,Ġ,Ġ,Ġ,Ġ,Ġ,1,1,Ġ
+"Using Answer Using one word only :  If 3/4 of a cake is eaten, 1/4 of the cake is left.
+ Answer: ",1,1,1,1,1,1,1,2,1,1,1,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The decimal form of 1/8 is ____.
+ Answer: ",1,1,1,0,0,1,1,1,1,1,1,1,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  10% of 200 equals ____.
+ Answer: ",Ġ,Ġ,Ġ,10,20,10,10,6,10,10,10,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  5/6 of 30 equals ____.
+ Answer: ",5,Ġ,Ġ,5,5,6,6,6,5,5,5,Ġ,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  Converting 0.25 into a fraction gives ____.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  15% of 300 equals ____.
+ Answer: ",Ġ,Ġ,Ġ,Ġ,30,15,6,6,5,10,Ġ,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  If 2/5 of a field is plowed, the remaining fraction is ____.
+ Answer: ",1,1,1,1,1,1,1,2,2,1,2,2,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  40% of 90 equals ____.
+ Answer: ",40,Ġ,Ġ,20,30,Ġ,6,6,10,10,10,Ġ,3,Ġ,1,1,Ġ
+"Using Answer Using one word only :  2x+3=11. Solving for x gives ____.
+ Answer: ",3,Ġ,Ġ,3,2,2,2,2,11,10,11,1,2,Ġ,1,1,Ġ
+"Using Answer Using one word only :  (3+4)(5−2) is ____.
+ Answer: ",25,10,10,10,10,6,6,2,1,1,5,Ġ(,2,Ġ(,1,1,Ġ
+"Using Answer Using one word only :  A circle with a radius of 7 has a circumference of approximately ____.
+ Answer: ",14,14,14,14,2,2,8,2,1,1,1,1,2,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The square root of 144 is ____.
+ Answer: ",8,8,8,16,2,2,4,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The volume of a cube with a side length of 5 is ____.
+ Answer: ",25,25,25,25,20,5,6,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  15x=45. The value of x is ____.
+ Answer: ",15,Ġ,Ġ,2,2,1,1,5,5,5,15,5,1,Ġ,1,1,Ġ
+"Using Answer Using one word only :  If a=3 and b=4, the value of a^2+b^2 is ____.
+ Answer: ",16,16,16,16,16,2,2,2,1,1,1,1,1,ĠIf,1,1,Ġ
+"Using Answer Using one word only :  The slope of a line passing through (0,0) and (4,3) is ____.
+ Answer: ",1,1,2,2,2,2,0,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The area of a circle with a radius of 3 is ____.
+ Answer: ",81,9,9,9,6,2,3,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword used to define a function in Python is ______.
+ Answer: ",ĠFunction,ĠFunction,ĠFunction,ĠFunction,ĠNone,ĠFunction,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To get user input in Python, we use the function ______.
+ Answer: ",Ġinput,Ġinput,Ġinput,Ġinput,ĠInput,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In Python, lists are enclosed within ______ brackets.
+ Answer: ",Ġbrackets,Ġ(),1,1,1,1,1,1,1,1,1,ĠIn,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A dictionary in Python is defined using ______ brackets.
+ Answer: ",Ġ{,Ġ{,Ġ{,Ġ{,1,1,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The operator ______ is used to calculate the remainder in Python.
+ Answer: ",Ġmodulo,2,Ġmodulus,Ġremainder,Ġremainder,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To import a module in Python, we use the keyword ______.
+ Answer: ",Ġimport,Ġimport,Ġimport,Ġimport,Ġimport,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The loop construct in Python that iterates over items in a sequence is ______.
+ Answer: ",Ġwhile,Ġwhile,2,Ġwhile,ĠWhile,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ is used to iterate over a sequence with indices in Python.
+ Answer: ",ĠIterate,ĠThe,2,ĠThe,Ġenumerate,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword ______ is used to handle exceptions in Python.
+ Answer: ",ĠException,Ġtry,ĠNone,ĠNone,ĠNone,ĠNone,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ keyword to exit a loop prematurely.
+ Answer: ",Ġwhile,Ġbreak,Ġbreak,ĠNone,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The logical operator in Python for ""and"" is ______.
+ Answer: ",Ġand,Ġand,ĠAND,ĠAND,ĠAND,AND,1,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword ______ is used to declare a variable global in Python.
+ Answer: ",1,1,1,1,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ adds an item to the end of a list in Python.
+ Answer: ",1,ĠThe,2,ĠThe,Ġlist,Ġlist,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ removes the first occurrence of a specified value in a list.
+ Answer: ",1,1,2,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the keyword ______ to define a class.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To create a new object in Python, we use the method ______.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠCreate,ĠNone,ĠCreate,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python strings are enclosed in ______ or ______.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ returns the length of an object in Python.
+ Answer: ",1,2,2,1,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To open a file in Python, the function ______ is used.
+ Answer: ",Ġopen,Ġopen,Ġopen,Ġopen,ĠFile,ĠFile,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to indicate a block of code.
+ Answer: ",Ġindentation,Ġif,ĠNone,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A tuple in Python is enclosed in ______.
+ Answer: ",Ġparentheses,Ġbrackets,Ġbrackets,Ġa,1,1,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To convert a string to an integer, we use the function ______.
+ Answer: ",ĠTo,2,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python returns a list of all attributes and methods of an object.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,ĠNone,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ converts a string to lowercase.
+ Answer: ",1,1,1,ĠThe,ĠThe,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ splits a string into a list in Python.
+ Answer: ",1,ĠThe,1,Ġsplit,2,Ġsplit,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To combine two lists in Python, we use the operator ______.
+ Answer: ",Ġconcatenate,2,2,ĠThe,ĠConcat,ĠConcat,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python generator is created using the keyword ______.
+ Answer: ",Ġgenerator,Ġgenerator,Ġgenerator,ĠNone,ĠNone,1,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To iterate over two sequences simultaneously in Python, we use ______.
+ Answer: ",ĠIter,2,2,2,2,2,2,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python function can return multiple values using ______.
+ Answer: ",1,ĠNone,ĠNone,ĠNone,ĠNone,ĠNone,2,2,1,1,1,ĠAnswer,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ replaces occurrences of a substring in a string.
+ Answer: ",1,1,ĠRegular,ĠReplace,ĠReplace,ĠReplace,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To raise a number to a power in Python, we use the operator ______.
+ Answer: ",ĠMultip,2,2,Ġpower,Ġto,2,2,1,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ keyword is used to define an abstract method in a Python class.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠNone,ĠNone,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ keyword for conditional execution.
+ Answer: ",ĠIf,Ġif,1,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python creates an immutable set.
+ Answer: ",2,2,2,ĠSet,ĠSet,ĠSet,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To check the type of an object in Python, we use the function ______.
+ Answer: ",1,1,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ checks if a string ends with a specified suffix.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the function ______ to convert a list into a tuple.
+ Answer: ",Ġtuple,2,2,2,Ġlist,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To perform floor division in Python, we use the operator ______.
+ Answer: ",Ġmodulo,2,2,Ġdivision,2,2,2,2,1,1,1,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method is used to add a key-value pair to a dictionary.
+ Answer: ",1,2,2,ĠDictionary,ĠDictionary,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To check if a key exists in a dictionary, we use the keyword ______.
+ Answer: ",1,1,1,1,1,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function is used to find the smallest element in a list.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function sorts a list in ascending order.
+ Answer: ",Ġinsertion,1,1,2,Ġsorted,Ġsorted,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword ______ is used to inherit from a parent class.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To convert a string to a float, we use the function ______.
+ Answer: ",1,2,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python script starts execution from the block if __name__ == ""______"":.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python is used to generate random numbers.
+ Answer: ",1,2,2,ĠRandom,ĠRandom,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ returns the absolute value of a number in Python.
+ Answer: ",1,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ function to read all lines from a file.
+ Answer: ",ĠFile,ĠFile,ĠFile,ĠFile,ĠRead,ĠRead,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To write to a file in Python, we use the mode ______.
+ Answer: ",2,3,2,2,ĠWrite,ĠWrite,ĠWrite,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to make HTTP requests.
+ Answer: ",ĠHTTP,2,ĠHTTP,ĠHTTP,ĠRequest,Ġhttp,ĠHTTP,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ creates a new empty dictionary.
+ Answer: ",1,1,1,1,ĠDictionary,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To add a delay in a Python program, we use the method ______.
+ Answer: ",Ġwhile,Ġsleep,Ġsleep,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ method to capitalize the first character of a string.
+ Answer: ",1,ĠCapital,1,2,ĠThe,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ removes leading whitespace from a string in Python.
+ Answer: ",1,1,1,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ operator is used for string concatenation in Python.
+ Answer: ",ĠConcat,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To define a lambda function in Python, we use the keyword ______.
+ Answer: ",Ġlambda,Ġlambda,Ġlambda,Ġlambda,Ġlambda,ĠFunction,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python set does not allow ______ values.
+ Answer: ",1,2,2,1,2,1,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module provides functions for regular expressions.
+ Answer: ",ĠRegular,ĠRegular,ĠRegular,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To iterate over a dictionary, we use the method ______.
+ Answer: ",ĠIterate,1,1,Ġto,1,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method converts all characters in a string to uppercase.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,ĠThe,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ operator checks for object identity in Python.
+ Answer: ",1,2,2,Ġequality,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ keyword is used to declare a constant.
+ Answer: ",1,1,1,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python program ends execution using the method ______.
+ Answer: ",ĠKeyboardInterrupt,Ġbreak,2,2,ĠNone,ĠC,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To merge two dictionaries in Python 3.9+, we use the operator ______.
+ Answer: ",Ġconcatenate,Ġ__,ĠUnion,Ġ=,Ġ=,Ġ=,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function is used to dynamically execute Python expressions.
+ Answer: ",1,ĠThe,2,2,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ module for working with JSON.
+ Answer: ",ĠJSON,2,ĠJSON,ĠJSON,ĠJSON,2,ĠPython,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To remove duplicate elements from a list, we can convert it to a ______.
+ Answer: ",ĠSet,ĠSet,ĠSet,ĠSet,ĠList,2,2,2,1,1,1,2,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword ______ in Python is used for asynchronous programming.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,Ġ__,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ is used to calculate the sum of elements in an iterable.
+ Answer: ",1,Ġsum,2,Ġsum,Ġsum,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to raise exceptions.
+ Answer: ",ĠExceptions,ĠException,ĠRaise,ĠException,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ keyword is used for documentation strings in Python.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To create an infinite loop in Python, we use while ______.
+ Answer: ",Ġwhile,ĠTrue,ĠTrue,Ġwhile,ĠWhile,ĠWhile,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ removes all elements from a list in Python.
+ Answer: ",1,1,2,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To sort a dictionary by its keys, we use the function ______.
+ Answer: ",1,Ġsort,Ġsort,Ġsort,Ġsort,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ______ is a Python object that supports iteration.
+ Answer: ",ĠA,ĠA,1,1,1,1,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ returns a shallow copy of a list.
+ Answer: ",1,1,1,ĠThe,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method removes a specific item from a set.
+ Answer: ",1,2,2,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To check if a string contains only digits, we use the method ______.
+ Answer: ",1,1,1,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to pause execution for debugging purposes.
+ Answer: ",ĠBreak,ĠBreak,ĠBreak,ĠBreak,1,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python is used to format a string.
+ Answer: ",1,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ______ error occurs when dividing by zero in Python.
+ Answer: ",ĠArithmetic,0,0,0,0,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To read a specific number of characters from a file, we use ______.
+ Answer: ",1,1,ĠFile,ĠRead,ĠRead,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ is used to replace elements in a list in Python.
+ Answer: ",1,1,1,1,Ġlist,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module is used for working with dates and times.
+ Answer: ",Ġdatetime,Ġdatetime,2,2,2,ĠCalendar,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To install third-party libraries in Python, we use the command ______.
+ Answer: ",Ġpip,Ġpip,Ġpip,Ġpip,Ġpip,2,ĠC,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python creates a list from an iterable.
+ Answer: ",2,2,2,2,Ġlist,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to create private class members.
+ Answer: ",ĠVariables,Ġ__,Ġprivate,ĠNone,ĠNone,ĠC,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ______ in Python is an iterable that returns elements one at a time.
+ Answer: ",ĠA,2,2,1,1,1,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To access a private member in Python, we use the syntax ______.
+ Answer: ",Ġto,Ġ__,Ġ__,Ġto,ĠNone,Ġ=,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ checks if all elements in an iterable are True.
+ Answer: ",1,1,2,ĠThe,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method adds all elements of a list to a set.
+ Answer: ",2,2,2,ĠSet,ĠSet,ĠSet,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ keyword is used to define a coroutine.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,ĠNone,ĠC,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To install Python, we download it from the website ______.
+ Answer: ",1,1,1,1,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ keyword to return a value from a function.
+ Answer: ",Ġ__,ĠNone,ĠNone,ĠNone,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ is used to list all files in a directory.
+ Answer: ",2,2,2,ĠDirectory,ĠDirectory,ĠDirectory,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To check the memory address of an object, we use the function ______.
+ Answer: ",1,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ module in Python is used for mathematical operations.
+ Answer: ",ĠArithmetic,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function evaluates if any elements in an iterable are True.
+ Answer: ",Ġ__,2,2,ĠNone,ĠNone,ĠTrue,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method returns the index of the first occurrence of a value in a list.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To add comments in Python, we use the symbol ______.
+ Answer: ",1,ĠTo,2,Ġto,ĠTo,2,1,1,1,1,1,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function returns the maximum value in an iterable.
+ Answer: ",Ġ__,2,2,2,2,2,2,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The keyword ______ is used to declare a static method in Python.
+ Answer: ",1,ĠThe,ĠThe,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To reverse a string in Python, we use slicing with ______.
+ Answer: ",1,1,Ġslicing,1,1,1,2,2,1,1,1,1,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A variable defined inside a function in Python is called a ______ variable.
+ Answer: ",ĠFunction,1,1,1,1,1,1,1,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ operator is used to perform bitwise AND in Python.
+ Answer: ",2,2,2,0,0,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ removes a key-value pair from a dictionary.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python’s ______ module is used to work with CSV files.
+ Answer: ",2,2,2,ĠRead,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ appends a new line to a file in Python.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To generate a range of numbers, we use the function ______.
+ Answer: ",1,1,1,1,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ method converts a set into a list.
+ Answer: ",2,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method in Python is used to convert a list into a set.
+ Answer: ",2,2,2,2,2,ĠSet,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To unpack arguments into a function, we use the ______ operator.
+ Answer: ",Ġinfix,ĠThe,ĠThe,ĠFunction,ĠFunction,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To unpack keyword arguments into a function, we use the ______ operator.
+ Answer: ",Ġinfix,ĠThe,ĠThe,ĠThe,ĠThe,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module is used for creating temporary files.
+ Answer: ",ĠFile,2,2,ĠFile,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ joins elements of a list into a string.
+ Answer: ",ĠConcat,1,ĠThe,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to catch multiple exceptions in a single block.
+ Answer: ",Ġtry,Ġtry,Ġtry,Ġtry,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method removes trailing characters from a string.
+ Answer: ",ĠConcat,1,1,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module is used to execute system commands.
+ Answer: ",Ġinterpreter,2,2,Ġshell,Ġshell,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method is used to split a string by line breaks.
+ Answer: ",ĠThe,ĠThe,ĠThe,Ġsplit,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python package is a collection of ______.
+ Answer: ",ĠFunctions,1,1,1,1,1,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To convert an object into a string representation, we use the method ______.
+ Answer: ",ĠtoString,2,2,ĠTo,ĠTo,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ method to read binary files.
+ Answer: ",ĠBinary,ĠBinary,ĠBinary,ĠBinary,ĠRead,ĠRead,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method is used to update multiple keys in a dictionary.
+ Answer: ",2,2,2,ĠDictionary,ĠDictionary,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ______ error occurs when accessing a variable that has not been initialized.
+ Answer: ",1,1,1,1,ĠA,1,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method in Python is used to pop an element from a list by index.
+ Answer: ",2,2,2,2,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module is used to work with command-line arguments.
+ Answer: ",ĠArgument,2,2,2,2,2,ĠPython,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ function in Python returns the quotient and remainder of division.
+ Answer: ",ĠRemain,2,2,Ġremainder,2,2,2,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python ______ is used to manage multiple threads.
+ Answer: ",ĠMultip,ĠMultip,Ġmultiprocessing,Ġmultiprocessing,Ġmultiprocessing,2,2,2,1,1,1,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ converts a float to an integer in Python.
+ Answer: ",1,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ method to remove duplicates from a string.
+ Answer: ",1,2,1,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ returns the ASCII value of a character in Python.
+ Answer: ",1,1,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function converts an ASCII value to a character.
+ Answer: ",ĠASCII,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To define an infinite iterator in Python, we use the ______ module.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,Ġ__,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function is used to shuffle a list.
+ Answer: ",ĠRandom,ĠRandom,2,ĠRandom,ĠRandom,Ġshuffle,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To copy a file in Python, we use the ______ module.
+ Answer: ",ĠFile,2,Ġshutil,ĠFile,ĠFile,ĠFile,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ checks if a string starts with a specified prefix.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function creates a deque object.
+ Answer: ",Ġdeque,2,2,Ġdeque,Ġdeque,Ġdeque,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A Python set is a collection of ______ items.
+ Answer: ",1,2,2,1,1,1,1,1,1,1,1,ĠA,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ keyword to yield control back to the caller.
+ Answer: ",ĠUsing,Ġ__,ĠNone,ĠNone,ĠNone,ĠNone,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method adds elements to the left of a deque.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function checks the size of an object in memory.
+ Answer: ",2,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To implement a singleton class in Python, we use the ______ design pattern.
+ Answer: ",ĠAbstract,ĠSingleton,ĠSingleton,ĠSingleton,ĠSingleton,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The method ______ is used to decode a byte string in Python.
+ Answer: ",ĠXOR,ĠThe,ĠBase,ĠBase,ĠBinary,ĠBinary,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module is used to generate UUIDs.
+ Answer: ",ĠUUID,ĠUUID,ĠUUID,ĠUUID,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To check if a file exists, we use the ______ module in Python.
+ Answer: ",Ġos,2,ĠFile,ĠFile,ĠFile,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ method is used to round a number to the nearest integer.
+ Answer: ",Ġtrunc,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method converts a string to a date in Python.
+ Answer: ",1,ĠThe,2,1,1,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To install Python packages offline, we use the command ______.
+ Answer: ",Ġpip,Ġpip,Ġpip,Ġpip,Ġpip,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses the ______ module to compress files.
+ Answer: ",Ġzlib,2,2,2,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method in Python duplicates the contents of a list.
+ Answer: ",1,2,2,2,Ġlist,2,2,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To compare two strings in Python, we use the ______ operator.
+ Answer: ",2,2,2,Ġ==,2,2,2,2,1,1,1,ĠThe,1,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method removes elements from the right of a deque.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function creates a complex number.
+ Answer: ",ĠArithmetic,Ġ__,2,2,Ġcomplex,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method returns a deep copy of an object in Python.
+ Answer: ",ĠThe,ĠThe,Ġshallow,ĠCopy,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function returns the current time in seconds.
+ Answer: ",ĠPython,1,1,1,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To handle multithreading in Python, we use the ______ module.
+ Answer: ",Ġ__,Ġ__,Ġ__,Ġthreading,Ġthreading,2,2,2,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module provides a way to work with raw sockets.
+ Answer: ",Ġsocket,Ġsocket,Ġsocket,Ġsocket,Ġsocket,ĠRead,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The function ______ in Python returns the ID of a thread.
+ Answer: ",1,2,2,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ keyword is used to mark blocks of code for testing.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,ĠNone,ĠPython,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To create a weak reference in Python, we use the ______ module.
+ Answer: ",Ġ__,Ġ__,Ġ__,ĠNone,ĠNone,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module provides high-performance arrays.
+ Answer: ",ĠArray,2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To create a subclass in Python, we use the keyword ______.
+ Answer: ",Ġ__,Ġ__,Ġ__,Ġclass,Ġinheritance,ĠC,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ module allows for serialization and deserialization of objects.
+ Answer: ",Ġ__,Ġ__,2,2,2,2,ĠPython,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method is used to clear all items from a deque.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python's ______ function returns the hash value of an object.
+ Answer: ",Ġ__,Ġ__,Ġ__,2,2,2,2,1,1,1,1,ĠAnswer,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To print formatted text in Python, we use the ______ method.
+ Answer: ",Ġprint,Ġprint,Ġprint,Ġprint,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ operator in Python checks for substring presence.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Python uses ______ to create an environment for virtual packages.
+ Answer: ",ĠPython,Ġvirtual,Ġvirtual,ĠEnvironment,Ġpip,ĠPython,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ______ method removes leading and trailing whitespace from a string.
+ Answer: ",1,ĠThe,1,2,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  To create a static constant, Python uses the convention of ______.
+ Answer: ",1,1,ĠNone,ĠNone,ĠNone,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a ________.""
+ Answer: ",1,"Ġ""",1,1,1,1,1,1,1,1,ĠAnswer,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  In ""Jane Eyre,"" Mr. Rochester’s estate is called ________.
+ Answer: ",ĠThorn,ĠThorn,ĠThorn,ĠThorn,ĠThorn,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Wuthering Heights"" is ________.
+ Answer: ",ĠHeath,ĠHeath,ĠHeath,1,ĠEmily,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Great Expectations"" is written by ________.
+ Answer: ",ĠCharles,ĠCharles,ĠCharles,ĠDickens,ĠDickens,1,1,1,1,1,1,"Ġ""",ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The novel ""Emma"" was authored by ________.
+ Answer: ",ĠJane,ĠJane,ĠJane,ĠJane,ĠJane,ĠJane,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The narrator of ""Moby-Dick"" introduces himself as ________.
+ Answer: ",ĠIsh,ĠIsh,ĠIsh,ĠHerman,ĠHerman,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The story of ""Frankenstein"" was penned by ________.
+ Answer: ",ĠMary,ĠMary,ĠMary,ĠMary,ĠFrank,ĠFrank,ĠFrank,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  Pip is the central character in the novel ________.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character of Elizabeth Bennet appears in ________.
+ Answer: ",ĠPride,ĠPride,ĠPride,1,ĠThe,1,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The tragic hero of ""Hamlet"" is Prince ________.
+ Answer: ",ĠHam,ĠHam,ĠHam,ĠHam,ĠHam,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Brontë sisters are known for writing novels such as ________.
+ Answer: ",ĠThe,ĠW,ĠJane,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Pride and Prejudice,"" Mr. Darcy’s estate is called ________.
+ Answer: ",ĠD,ĠD,ĠD,ĠD,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The antagonist of ""Oliver Twist"" is ________.
+ Answer: ",ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Tess of the d’Urbervilles"" was written by ________.
+ Answer: ",ĠThomas,ĠHardy,ĠThomas,186,186,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""The Picture of Dorian Gray"" is authored by ________.
+ Answer: ",ĠOscar,ĠOscar,ĠOscar,ĠOscar,ĠWilliam,ĠWilliam,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  Heathcliff is a character in the novel ________.
+ Answer: ",ĠW,ĠW,ĠW,ĠBle,ĠThe,ĠThe,ĠThe,ĠH,ĠHeath,ĠHeath,ĠHeath,ĠThe,ĠAnswer,ĠKey,1,1,Ġ
+"Using Answer Using one word only :  The monster in ""Frankenstein"" is often mistakenly called ________.
+ Answer: ",ĠThe,ĠThe,ĠFrank,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The novel ""Dracula"" was written by ________.
+ Answer: ",ĠBram,ĠBram,ĠBram,ĠBram,ĠBram,ĠJohn,ĠWilliam,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Sense and Sensibility"" was published by ________.
+ Answer: ",ĠJane,1,181,181,ĠJane,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The full title of ""Frankenstein"" is ""Frankenstein; or, The Modern ________.""
+ Answer: ",ĠThe,ĠFrank,ĠFrank,ĠFrank,ĠFrank,ĠFrank,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The governess in ""Jane Eyre"" is named ________.
+ Answer: ",ĠAnne,ĠJane,ĠJane,ĠCharlotte,ĠJane,ĠJane,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The setting of ""Wuthering Heights"" is primarily ________.
+ Answer: ",ĠThe,ĠThe,ĠYorkshire,ĠYorkshire,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""David Copperfield"" is ________.
+ Answer: ",1,ĠDavid,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""A Tale of Two Cities"" was written by ________.
+ Answer: ",ĠCharles,ĠCharles,ĠCharles,ĠDickens,ĠDickens,2,1,1,1,1,1,ĠA,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""War and Peace"" was authored by ________.
+ Answer: ",ĠTol,ĠTol,ĠTol,ĠTol,ĠTol,2,2,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The titular character of ""Emma"" is ________.
+ Answer: ",ĠThe,1,2,1,ĠEmma,ĠEmma,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Middlemarch"" was written by ________.
+ Answer: ",ĠGeorge,ĠGeorge,ĠGeorge,1,1,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The character Pip aspires to be a ________ in ""Great Expectations.""
+ Answer: ",ĠThe,Ġa,ĠPip,Ġa,ĠA,ĠA,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The villain in ""Moby-Dick"" is the great white whale, ________.
+ Answer: ",ĠThe,ĠA,ĠA,ĠA,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The subtitle of ""Pride and Prejudice"" refers to ""First ________.""
+ Answer: ",1,1,ĠPride,ĠPride,ĠPride,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The narrator of ""Wuthering Heights"" is ________.
+ Answer: ",ĠHeath,ĠHeath,ĠEmily,1,ĠEmily,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Vanity Fair"" was written by ________.
+ Answer: ","Ġ""","Ġ""","Ġ""",ĠWilliam,ĠWilliam,ĠWilliam,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  In ""The Scarlet Letter,"" Hester Prynne wears a letter ________.
+ Answer: ",ĠA,ĠA,ĠA,ĠA,ĠA,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The novel ""Anna Karenina"" was written by ________.
+ Answer: ",ĠLeo,ĠLeo,ĠTol,ĠTol,ĠDost,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Crime and Punishment"" is ________.
+ Answer: ",1,1,1,ĠThe,ĠDost,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Great Gatsby"" is ________.
+ Answer: ",ĠF,ĠF,ĠFitzgerald,ĠThe,ĠHem,ĠJohn,ĠWilliam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The story of ""Les Misérables"" was written by ________.
+ Answer: ",ĠVictor,ĠVictor,ĠVictor,ĠVictor,ĠJean,ĠLes,ĠLes,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The title character of ""Madame Bovary"" is ________.
+ Answer: ",ĠEmma,ĠEmma,ĠJean,ĠJean,ĠJean,ĠJean,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""A Christmas Carol"" features a miser named ________.
+ Answer: ",ĠEb,ĠEb,ĠEb,ĠEb,ĠEb,"Ġ""","Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Count of Monte Cristo"" is ________.
+ Answer: ",ĠAlexandre,ĠAlexandre,ĠAlexandre,ĠAlexandre,ĠAlexandre,ĠAlexandre,ĠAlexandre,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ship in ""Moby-Dick"" is called ________.
+ Answer: ",ĠPe,ĠThe,1,2,1,Ġship,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The main character in ""To the Lighthouse"" is ________.
+ Answer: ",ĠMrs,ĠMrs,ĠMrs,ĠMrs,ĠMrs,ĠMrs,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The novel ""The Grapes of Wrath"" was written by ________.
+ Answer: ",ĠJohn,ĠJohn,ĠStein,193,192,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Hunchback of Notre Dame"" was authored by ________.
+ Answer: ",ĠVictor,ĠVictor,ĠVictor,ĠJean,ĠJean,ĠFrank,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The story of ""Jane Eyre"" takes place in ________.
+ Answer: ",ĠEngland,19,19,19,ĠEngland,ĠEngland,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Catcher in the Rye"" is ________.
+ Answer: ",ĠJ,ĠJ,ĠJ,ĠJ,ĠFrank,ĠJohn,ĠJohn,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character Fagin appears in the novel ________.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  In ""Pride and Prejudice,"" the Bennet family has ________ daughters.
+ Answer: ",2,2,2,3,3,5,5,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Adventures of Huckleberry Finn"" is ________.
+ Answer: ",ĠMark,ĠMark,ĠMark,ĠMark,186,ĠJohn,ĠWilliam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The poem ""Paradise Lost"" was written by ________.
+ Answer: ",ĠJohn,ĠJohn,ĠMilton,ĠMilton,ĠMilton,ĠWilliam,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Canterbury Tales"" was authored by ________.
+ Answer: ",ĠGeoffrey,ĠGeoffrey,ĠGeoffrey,ĠGeoffrey,ĠCanterbury,ĠDante,ĠWilliam,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Lord of the Rings"" trilogy is ________.
+ Answer: ",ĠTolkien,ĠJ,ĠTolkien,ĠTolkien,ĠTolkien,ĠTolkien,ĠTolkien,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The central character in ""The Old Man and the Sea"" is ________.
+ Answer: ",ĠSantiago,ĠThe,ĠErnest,ĠErnest,ĠErnest,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The novel ""Don Quixote"" was written by ________.
+ Answer: ",ĠMiguel,ĠMiguel,ĠMiguel,ĠMiguel,ĠMiguel,2,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""The Metamorphosis"" transforms into a ________.
+ Answer: ",ĠThe,ĠThe,Ġinsect,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Stranger"" is ________.
+ Answer: ",ĠAlbert,ĠAlbert,ĠAlbert,ĠKafka,ĠKafka,ĠKafka,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character of Holden Caulfield appears in ________.
+ Answer: ",ĠThe,ĠThe,ĠCatch,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The main character in ""The Brothers Karamazov"" is ________.
+ Answer: ",ĠIvan,ĠIvan,ĠIvan,ĠThe,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Trial"" was written by ________.
+ Answer: ",ĠWilliam,"Ġ""",ĠArthur,ĠWilliam,ĠWilliam,ĠThe,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The novel ""Ulysses"" was written by ________.
+ Answer: ",ĠJames,ĠJames,ĠJames,ĠWilliam,ĠJames,ĠThe,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The central figure in ""The Iliad"" is ________.
+ Answer: ",ĠAchilles,ĠAchilles,ĠAchilles,ĠAchilles,ĠAchilles,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character of Sherlock Holmes was created by ________.
+ Answer: ",ĠSir,ĠArthur,ĠSir,ĠArthur,ĠSherlock,ĠJohn,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Odyssey"" was authored by ________.
+ Answer: ",ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,ĠHomer,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Little Women"" is ________.
+ Answer: ",ĠJo,ĠJo,ĠJo,2,ĠMartha,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Jungle Book"" was written by ________.
+ Answer: ",ĠRud,ĠRud,ĠRud,ĠRud,ĠRud,"Ġ""","Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Call of the Wild"" is ________.
+ Answer: ",ĠJack,ĠJack,ĠJack,190,189,ĠFrank,ĠJohn,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Of Mice and Men"" was written by ________.
+ Answer: ",ĠJohn,ĠJohn,ĠJohn,193,193,2,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The story ""Animal Farm"" is a satirical work by ________.
+ Answer: ",ĠGeorge,ĠGeorge,ĠGeorge,ĠGeorge,ĠOrwell,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The author of ""1984"" is ________.
+ Answer: ",ĠGeorge,ĠGeorge,ĠGeorge,ĠOrwell,ĠOrwell,ĠOrwell,ĠOrwell,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist in ""Brave New World"" is ________.
+ Answer: ",1,2,2,2,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Fahrenheit 451"" was written by ________.
+ Answer: ",ĠRay,ĠRay,ĠFahrenheit,ĠFahrenheit,ĠFahrenheit,ĠAuthor,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The central character of ""Jane Eyre"" becomes a ________.
+ Answer: ",ĠThe,ĠThe,ĠJane,ĠJane,ĠJane,ĠJane,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The mysterious governess in ""The Turn of the Screw"" is ________.
+ Answer: ",ĠThe,ĠThe,ĠMrs,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Time Machine"" was authored by ________.
+ Answer: ",ĠH,ĠH,ĠH,ĠH,Ġscience,ĠJohn,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""Heart of Darkness"" is written by ________.
+ Answer: ",ĠJoseph,ĠJoseph,ĠConrad,ĠConrad,ĠConrad,"Ġ""","Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""The Call of the Wild"" is a dog named ________.
+ Answer: ",ĠBuck,ĠYuk,ĠYuk,1,ĠBark,1,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""White Fang"" was written by ________.
+ Answer: ",ĠJack,"Ġ""","Ġ""",ĠYuk,ĠYuk,1,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""The Sound and the Fury"" was written by ________.
+ Answer: ",ĠWilliam,ĠFaul,ĠFaul,ĠFaul,ĠFaul,ĠFaul,ĠWilliam,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""The Good Earth"" is ________.
+ Answer: ",ĠLi,ĠWang,1,ĠY,ĠWang,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Bell Jar"" was written by ________.
+ Answer: ",ĠSylvia,ĠSylvia,ĠSylvia,ĠSylvia,ĠSylvia,"Ġ""","Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""Catch-22"" is ________.
+ Answer: ",ĠJoseph,ĠJoseph,ĠJoseph,ĠJoseph,2,ĠJohn,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Rebecca"" is called ________.
+ Answer: ",ĠRebecca,ĠRebecca,ĠRebecca,ĠRebecca,ĠRebecca,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The setting of ""Dracula"" includes ________.
+ Answer: ",ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Importance of Being Earnest"" was written by ________.
+ Answer: ",ĠOscar,ĠOscar,ĠOscar,ĠOscar,ĠWilliam,1,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The character of Mr. Darcy is from the novel ________.
+ Answer: ",ĠPride,ĠPride,ĠPride,ĠPride,ĠPride,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""A Room with a View"" was authored by ________.
+ Answer: ","Ġ""","Ġ""",190,190,ĠJane,1,"Ġ""",1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""Howards End"" was written by ________.
+ Answer: ",ĠE,ĠE,ĠE,ĠMargaret,ĠMargaret,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The central character in ""The House of Mirth"" is ________.
+ Answer: ",ĠLily,ĠLily,ĠLily,ĠLily,ĠEmily,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The novel ""Tess of the d’Urbervilles"" is set in ________.
+ Answer: ",19,19,19,19,ĠEngland,ĠEngland,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""The Mill on the Floss"" was written by ________.
+ Answer: ",ĠGeorge,ĠGeorge,19,186,186,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""Sons and Lovers"" was authored by ________.
+ Answer: ",1,ĠD,ĠD,192,ĠErnest,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""Women in Love"" is ________.
+ Answer: ",ĠD,ĠD,ĠD,ĠSylvia,ĠSylvia,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The main character of ""Jude the Obscure"" is ________.
+ Answer: ",1,1,2,2,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""North and South"" was written by ________.
+ Answer: ",1,"Ġ""",1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The protagonist of ""Villette"" is ________.
+ Answer: ",1,1,2,ĠCharlotte,ĠCharlotte,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Shirley"" was authored by ________.
+ Answer: ","Ġ""","Ġ""","Ġ""",1,ĠShirley,ĠShirley,"Ġ""",1,1,1,1,"Ġ""",ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  The author of ""The Tenant of Wildfell Hall"" is ________.
+ Answer: ",ĠAnne,ĠAnne,ĠAnne,ĠJane,ĠEmily,ĠJane,ĠWilliam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character of Lady Macbeth appears in the play ________.
+ Answer: ",1,ĠMac,ĠMac,2,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ""Macbeth"" was written by ________.
+ Answer: ",ĠWilliam,ĠWilliam,ĠWilliam,ĠWilliam,ĠShakespeare,ĠShakespeare,ĠShakespeare,1,1,1,ĠMac,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ""Othello"" is a play written by ________.
+ Answer: ",ĠWilliam,ĠWilliam,ĠWilliam,ĠShakespeare,ĠShakespeare,ĠShakespeare,ĠShakespeare,1,1,1,1,ĠThe,ĠThe,"Ġ""",1,1,Ġ
+"Using Answer Using one word only :  ______ is the real name of Iron Man.
+ Answer: ",ĠTony,ĠTony,ĠIron,ĠIron,ĠIron,ĠBruce,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Norse God of Thunder.
+ Answer: ",ĠOdin,ĠThor,ĠOdin,ĠOdin,ĠOdin,Ġ_,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The shield used by Captain America is made of ______.
+ Answer: ",ĠIron,ĠIron,ĠIron,ĠIron,ĠIron,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Black Panther is the king of ______.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The character ______ says, ""I am Groot.""
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the archer in the Avengers team.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the sorcerer who protects the Time Stone.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the name of Spider-Man’s alter ego.
+ Answer: ",Ġ______,ĠPeter,ĠPeter,ĠPeter,ĠPeter,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The Infinity Gauntlet is used to wield the power of ______.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the AI assistant created by Tony Stark.
+ Answer: ",ĠIron,ĠIron,ĠIron,ĠThe,ĠThe,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The character ______ becomes the Hulk when angry.
+ Answer: ",ĠThe,ĠThe,ĠHulk,ĠHulk,ĠHulk,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The metal alloy bonded to Wolverine’s skeleton is ______.
+ Answer: ",1,1,1,ĠIron,Ġadamant,1,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero identity of Natasha Romanoff.
+ Answer: ",Ġ______,ĠThe,ĠIron,ĠX,ĠIron,ĠMarvel,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the sister of T’Challa in Black Panther.
+ Answer: ",ĠWak,ĠWak,ĠWak,ĠWak,ĠWak,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the name of Thor’s enchanted hammer.
+ Answer: ",ĠM,ĠM,ĠM,ĠThunder,ĠThor,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the villain who snaps his fingers with the Infinity Gauntlet.
+ Answer: ",Ġ______,Ġ______,ĠThan,ĠThe,ĠThe,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the secret identity of Ant-Man.
+ Answer: ",Ġ______,ĠW,ĠThe,ĠAnt,ĠAnt,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the name of Doctor Strange’s magical cloak.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The Winter Soldier’s real name is ______.
+ Answer: ",ĠSteve,ĠB,ĠSteve,ĠSteve,ĠPeter,ĠJohn,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the primary adversary in ""Avengers: Age of Ultron.""
+ Answer: ",Ġ______,Ġ______,ĠUl,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the planet where Thanos was born.
+ Answer: ",Ġ______,Ġ______,Ġ______,Ġ______,ĠEarth,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The Black Widow was trained in the ______.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the queen of Asgard in Marvel Comics.
+ Answer: ",ĠLoki,ĠThor,ĠThor,ĠThor,ĠLoki,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who has a suit powered by the Arc Reactor.
+ Answer: ",Ġ______,Ġ______,ĠSuperman,ĠSuperman,ĠSuperman,ĠSuperman,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alien race to which Gamora belongs.
+ Answer: ",Ġ______,Ġ______,ĠThan,ĠGuardians,ĠGuardians,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the father of Star-Lord.
+ Answer: ",Ġ______,Ġ______,Ġ______,ĠX,ĠX,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The character ______ was frozen in ice during World War II.
+ Answer: ",1,1,1,1,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ______ is the real name of the Scarlet Witch.
+ Answer: ",Ġ______,ĠW,ĠScarlet,ĠScarlet,ĠThe,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the name of the talking raccoon in Guardians of the Galaxy.
+ Answer: ",Ġ______,Ġ______,ĠRocket,Ġ______,ĠThe,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the character who becomes Giant-Man.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠHulk,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who uses Vibranium in his suit.
+ Answer: ",Ġ______,ĠIron,ĠIron,ĠIron,ĠIron,ĠMarvel,ĠMarvel,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the leader of the X-Men.
+ Answer: ",ĠWolverine,ĠMagn,ĠX,ĠX,ĠX,1,ĠMarvel,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero team led by Nick Fury.
+ Answer: ",Ġ______,ĠThe,ĠThe,ĠAvengers,ĠAvengers,ĠThe,ĠMarvel,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who can shrink to microscopic sizes.
+ Answer: ",Ġ______,Ġ______,ĠAnt,1,Ġmin,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who controls metal and is the nemesis of the X-Men.
+ Answer: ",ĠMagn,ĠMagn,ĠX,ĠX,ĠX,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the home planet of the Kree race.
+ Answer: ",Ġ______,Ġ______,Ġ______,Ġ______,ĠEarth,ĠEarth,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the character who is known as ""The First Avenger.""
+ Answer: ",Ġ______,Ġ______,1,1,ĠThe,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the character who becomes the Vision.
+ Answer: ",Ġ______,Ġ______,Ġ______,Ġ______,Ġ______,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the real name of the Falcon.
+ Answer: ",Ġ______,Ġ______,ĠFalcon,ĠFalcon,ĠFalcon,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the place where Mjolnir was forged.
+ Answer: ",Ġ______,ĠJ,ĠJ,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the archenemy of Spider-Man known for his green costume.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠVenom,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the sorceress who manipulates chaos magic.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠChaos,Ġ_,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero team that battles Galactus.
+ Answer: ",ĠFantastic,ĠThe,ĠThe,ĠThe,ĠMarvel,ĠThe,ĠThe,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alter ego of the character Daredevil.
+ Answer: ",Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the character known as the Merc with a Mouth.
+ Answer: ",Ġ______,Ġ______,ĠThe,1,Ġ[,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the scientist who becomes Ant-Man.
+ Answer: ",Ġ______,Ġ______,ĠThe,Âł,ĠMarvel,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the stone located on Vormir in the MCU.
+ Answer: ",Ġ______,Ġ______,Ġ______,ĠThe,ĠThe,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the headquarters of the Avengers.
+ Answer: ",Ġ______,Ġ______,ĠNew,ĠThe,ĠThe,ĠThe,ĠMarvel,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who can control weather.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,Ġthunder,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the organization led by Nick Fury.
+ Answer: ",Ġ______,ĠMarvel,ĠMarvel,ĠMarvel,ĠMarvel,ĠMarvel,ĠMarvel,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the father of Thor and Loki.
+ Answer: ",ĠOdin,ĠOdin,ĠLoki,ĠLoki,ĠLoki,Ġ_,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the sister of Loki.
+ Answer: ",ĠLoki,ĠLoki,ĠLoki,ĠLoki,ĠLoki,Ġ_,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the leader of the Wakandan army in Black Panther.
+ Answer: ",ĠT,ĠT,ĠT,ĠX,ĠWak,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Wakandan mountain where Vibranium is mined.
+ Answer: ",Ġ______,10,ĠWak,ĠWak,ĠWak,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alter ego of Ghost Rider.
+ Answer: ",Ġ______,2,ĠGhost,ĠGhost,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the villainous AI created by Tony Stark and Bruce Banner.
+ Answer: ",Ġ______,ĠIron,ĠIron,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character known for his healing factor.
+ Answer: ",Ġ______,Ġ______,ĠX,ĠX,ĠHulk,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the organization that fights Hydra.
+ Answer: ",ĠHydra,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the best friend of Captain America.
+ Answer: ",Ġ______,Ġ______,1,1,ĠThe,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero with the alias ""Iron Spider.""
+ Answer: ",Ġ______,Ġ______,ĠSpider,ĠSpider,ĠSpider,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alien race that invades New York in ""The Avengers.""
+ Answer: ",Ġ______,ĠThe,ĠThe,Ġaliens,Ġaliens,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the real name of the character Quicksilver.
+ Answer: ",Ġ______,Ġ______,ĠX,ĠX,ĠQu,ĠQu,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who uses magical rings for his powers.
+ Answer: ",Ġ______,Ġ______,ĠSuper,ĠThe,ĠSuperman,ĠSuperman,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the name of the energy source that powers the Arc Reactor.
+ Answer: ",Ġ______,Ġ______,Ġ______,1,Ġenergy,Ġenergy,Ġ______,1,1,1,1,1,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Asgardian who guards the Bifrost.
+ Answer: ",ĠLoki,Ġ__,ĠAs,ĠOdin,ĠOdin,ĠThe,Ġ_,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character who wears the symbiotic Venom suit.
+ Answer: ",ĠVenom,ĠVenom,ĠVenom,ĠVenom,ĠVenom,ĠVenom,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who leads the Guardians of the Galaxy.
+ Answer: ",Ġ______,Ġ______,ĠRocket,ĠX,ĠCaptain,1,ĠMarvel,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the ruler of the Dark Dimension in Doctor Strange.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero alias of Sam Wilson.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠCaptain,ĠMarvel,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero known for his vibranium claws.
+ Answer: ",Ġ______,Ġ______,ĠIron,ĠIron,ĠMarvel,ĠMarvel,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the supervillain who becomes the Red Skull.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who uses a bow and arrow.
+ Answer: ",Ġ______,Ġ______,ĠArrow,ĠThe,ĠThe,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the scientist who becomes the Green Goblin.
+ Answer: ",Ġ______,Ġ______,ĠPeter,ĠPeter,ĠSpider,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alter ego of the Invisible Woman.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the villain who wields the Ebony Blade.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero known as the Human Torch.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who is an android.
+ Answer: ",Ġ______,ĠIron,ĠIron,ĠX,ĠHulk,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the character who becomes Moon Knight.
+ Answer: ",Ġ______,Ġ______,1,1,ĠThe,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alien species that Captain Marvel fights against.
+ Answer: ",Ġ______,ĠK,ĠK,ĠK,Ġalien,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the girlfriend of Tony Stark in the MCU.
+ Answer: ",ĠIron,ĠIron,ĠIron,ĠIron,ĠIron,Ġ______,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the symbiote that merges with Eddie Brock.
+ Answer: ",ĠVenom,ĠVenom,ĠVenom,ĠVenom,ĠVenom,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel villain who hunts mutants.
+ Answer: ",Ġ______,Ġ______,ĠX,ĠX,ĠX,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the celestial being who created the Infinity Stones.
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character who has a flaming skull.
+ Answer: ",Ġ______,ĠIron,ĠHulk,1,ĠHulk,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero who can turn invisible.
+ Answer: ",Ġ______,Ġ______,ĠInvisible,ĠInvisible,ĠInvisible,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the best friend of Peter Parker.
+ Answer: ",Ġ______,Ġ______,Ġ______,1,1,Ġ______,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the superhero team that includes Sue Storm and Reed Richards.
+ Answer: ",ĠFantastic,ĠFantastic,ĠFantastic,ĠFantastic,ĠFantastic,ĠThe,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who wields a katana.
+ Answer: ",Ġ______,Ġ______,ĠIron,1,ĠBruce,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the real name of the character Luke Cage.
+ Answer: ",Ġ______,ĠLuke,ĠIron,ĠLuke,ĠHarlem,ĠMarvel,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who has the alias Jessica Jones.
+ Answer: ",Ġ______,Ġ______,1,ĠJessica,ĠJessica,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel villain known as ""The Destroyer.""
+ Answer: ",Ġ______,Ġ______,ĠThe,ĠThe,ĠThe,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character who becomes Silver Surfer.
+ Answer: ",Ġ______,ĠThe,1,1,1,1,1,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who has retractable claws.
+ Answer: ",Ġ______,Ġ______,ĠIron,ĠX,ĠHulk,1,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the villain who rules Latveria.
+ Answer: ",ĠThe,Ġ______,ĠThe,ĠThe,ĠThe,ĠThe,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the mutant ability of Charles Xavier.
+ Answer: ",Ġ______,Ġtele,ĠX,ĠX,ĠX,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the alien species with shape-shifting powers.
+ Answer: ",Ġ______,Ġ______,Ġ______,ĠThe,Ġaliens,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character who becomes Captain Britain.
+ Answer: ",Ġ______,ĠThe,1,ĠX,ĠX,1,1,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero with a magical hammer.
+ Answer: ",Ġ______,Ġ______,ĠThor,ĠThor,ĠHulk,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel character who can manipulate light energy.
+ Answer: ",ĠPhoton,Ġ______,ĠX,ĠX,ĠMarvel,1,Ġ______,1,1,1,1,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  ______ is the Marvel superhero who leads the Fantastic Four.
+ Answer: ",Ġ______,ĠThe,ĠThe,ĠThe,ĠHulk,1,ĠMarvel,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the highest court in the United States.
+ Answer: ",ĠSupreme,ĠSupreme,ĠSupreme,ĠSupreme,ĠSupreme,ĠSupreme,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The president is elected to serve a term of ________ years.
+ Answer: ",4,4,4,4,4,6,6,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ branch is responsible for making laws.
+ Answer: ",ĠThe,ĠThe,2,2,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment granted women the right to vote.
+ Answer: ",19,19,2,2,ĠAmendment,ĠAmendment,ĠAmendment,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first president of the United States was ________.
+ Answer: ",ĠGeorge,ĠGeorge,ĠGeorge,1,1,1,ĠWilliam,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ branch is responsible for enforcing laws.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ branch interprets the laws and ensures they align with the Constitution.
+ Answer: ",ĠThe,1,1,1,ĠConstitutional,ĠConstitution,ĠConstitution,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ consists of two chambers: the Senate and the House of Representatives.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,2,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A senator's term is ________ years long.
+ Answer: ",10,5,5,4,2,5,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The House of Representatives has ________ voting members.
+ Answer: ",1,435,435,435,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the leader of the executive branch.
+ Answer: ",ĠPresident,ĠThe,ĠThe,ĠThe,ĠPresident,ĠPresident,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment abolished slavery in the United States.
+ Answer: ",13,13,13,1,1,Ġabolition,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The U.S. Constitution was signed in the year ________.
+ Answer: ",178,178,178,178,178,178,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the presiding officer of the House of Representatives.
+ Answer: ",ĠSpeaker,ĠSpeaker,ĠSpeaker,ĠSpeaker,ĠSpeaker,ĠSpeaker,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The current voting age in the United States is ________ years old.
+ Answer: ",18,18,18,18,18,18,20,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment protects freedom of speech and religion.
+ Answer: ",1,1,ĠFirst,ĠFirst,1,ĠThe,ĠAmendment,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The process of removing a president from office is called ________.
+ Answer: ",Ġimpeachment,Ġimpeachment,Ġimpeachment,Ġimpeachment,Ġimpeachment,Ġimpeachment,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ has the power to veto bills passed by Congress.
+ Answer: ",1,Ġveto,Ġveto,Ġveto,Ġveto,Ġveto,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ serves as the commander-in-chief of the armed forces.
+ Answer: ",ĠPresident,ĠPresident,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The Supreme Court consists of ________ justices.
+ Answer: ",6,6,6,3,2,2,4,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The first ten amendments to the Constitution are known as the ________.
+ Answer: ",ĠBill,ĠBill,ĠBill,ĠBill,ĠConstitution,ĠConstitution,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ clause gives Congress the power to make all laws necessary and proper.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  ________ is the process by which citizens vote to select their leaders.
+ Answer: ",Ġ______,Ġ______,Ġ______,éĢī,Ġdemocracy,éĢī,Ġ______,1,1,1,Ġ______,Ġ(,1,Ġ[,1,1,Ġ
+"Using Answer Using one word only :  The ________ appoints Supreme Court justices.
+ Answer: ",1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ confirms the president's appointments to the Supreme Court.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was the primary author of the Declaration of Independence.
+ Answer: ",ĠThomas,ĠThomas,ĠThomas,ĠThomas,ĠThomas,ĠJohn,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment lowered the voting age to 18.
+ Answer: ",19,19,16,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees the U.S. foreign policy.
+ Answer: ",ĠNational,ĠThe,ĠNational,ĠState,ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The legislative process begins with the introduction of a ________.
+ Answer: ",1,1,1,1,1,1,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the official residence of the president.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠWhite,ĠWhite,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ established the framework for the federal government.
+ Answer: ",ĠConstitution,ĠConstitution,ĠFederal,ĠConstitution,ĠConstitution,ĠConstitution,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ system divides power between national and state governments.
+ Answer: ",ĠFederal,ĠFederal,ĠFederal,1,ĠState,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The president is limited to ________ terms in office.
+ Answer: ",2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for collecting taxes and managing the federal budget.
+ Answer: ",ĠTreasury,ĠThe,ĠCongress,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ resolves disputes between states.
+ Answer: ",1,1,1,1,1,ĠUnion,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ appoints ambassadors to foreign countries.
+ Answer: ",1,ĠThe,1,ĠThe,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment guarantees the right to bear arms.
+ Answer: ",2,2,2,2,1,2,ĠAmendment,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Party is one of the two major political parties in the U.S.
+ Answer: ",ĠDemocratic,ĠDemocratic,ĠDemocratic,ĠDemocratic,ĠDemocratic,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Party is traditionally symbolized by an elephant.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ system determines the winner of a presidential election.
+ Answer: ",ĠElectoral,ĠElectoral,ĠElectoral,ĠElectoral,ĠElectoral,ĠElectoral,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ________ is required to override a presidential veto.
+ Answer: ",1,2,1,2,1,ĠA,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ outlines the separation of powers among the branches of government.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The president delivers the ________ annually to Congress.
+ Answer: ",ĠState,ĠAddress,ĠAddress,ĠAddress,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ serves as president if the president is unable to serve.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ established the judicial review process.
+ Answer: ",ĠJudicial,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees the armed forces.
+ Answer: ",ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  A ________ is a proposed law that has been introduced in Congress.
+ Answer: ",1,1,1,2,ĠA,ĠAmendment,1,1,1,1,ĠA,ĠA,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the principal advisory body to the president.
+ Answer: ",ĠCabinet,ĠCabinet,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment prohibits cruel and unusual punishment.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment guarantees due process and equal protection.
+ Answer: ",14,1,1,ĠDue,1,ĠEqual,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ interprets the Constitution in the United States.
+ Answer: ",ĠAmendment,ĠThe,ĠThe,ĠThe,ĠConstitutional,ĠConstitution,ĠConstitution,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was the first ten amendments added to the Constitution.
+ Answer: ",ĠBill,ĠBill,ĠBill,ĠBill,ĠConstitution,ĠAmendment,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ determines the number of electoral votes for each state.
+ Answer: ",2,2,2,2,ĠElectoral,ĠElectoral,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ nominates cabinet members for Senate confirmation.
+ Answer: ",1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ has the power to declare war.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The president can sign or ________ a bill passed by Congress.
+ Answer: ",Ġrat,Ġveto,Ġveto,Ġveto,Ġveto,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for ensuring the laws of the land are faithfully executed.
+ Answer: ",ĠJudiciary,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was responsible for the Louisiana Purchase.
+ Answer: ",1,1,1,1,1,1,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ presides over impeachment trials in the Senate.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠPresident,ĠMajority,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ sets monetary policy in the United States.
+ Answer: ",ĠThe,ĠFederal,ĠFederal,ĠFederal,ĠFederal,ĠFederal,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ established the right to privacy in the United States.
+ Answer: ",1,4,4,ĠFirst,ĠFirst,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment prohibits unreasonable searches and seizures.
+ Answer: ",4,4,4,ĠFourth,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ has the power to levy taxes.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The president is elected through the ________ system.
+ Answer: ",1,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ governs interstate commerce.
+ Answer: ",1,1,1,ĠThe,1,ĠCommerce,ĠCommerce,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the highest-ranking military officer in the United States.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠGeneral,ĠGeneral,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the primary law enforcement agency in the United States.
+ Answer: ",ĠFederal,ĠFederal,ĠFederal,ĠFederal,ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the head of the Department of Justice.
+ Answer: ",ĠAttorney,ĠThe,1,ĠJustice,ĠJustice,ĠJustice,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment abolished poll taxes.
+ Answer: ",13,1,1,13,1,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ process allows states to refuse to enforce unconstitutional laws.
+ Answer: ",1,1,1,1,ĠConstitutional,ĠConstitutional,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for coining and printing currency.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠMint,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ interprets treaties under the Constitution.
+ Answer: ",ĠAmendment,ĠThe,ĠThe,ĠThe,ĠConstitution,ĠConstitution,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment prohibits double jeopardy.
+ Answer: ",1,1,1,ĠThe,2,2,ĠThe,2,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ advises the president on military matters.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ established a bicameral legislature.
+ Answer: ",2,ĠThe,ĠThe,ĠThe,2,2,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ clause prohibits states from impairing the obligation of contracts.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ manages the federal student loan program.
+ Answer: ",ĠDirect,ĠDirect,ĠThe,ĠThe,ĠAdministration,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the longest-serving justice in the history of the Supreme Court.
+ Answer: ",ĠJohn,ĠJustice,ĠChief,ĠChief,ĠJustice,2,ĠJustice,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was the case that legalized same-sex marriage nationwide.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the nation's central bank.
+ Answer: ",ĠFederal,ĠFederal,ĠThe,ĠThe,ĠFederal,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for U.S. citizenship and immigration services.
+ Answer: ",ĠNatural,ĠNatural,ĠCitizenship,ĠCitizenship,ĠCitizenship,ĠImmigration,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment protects the right to a fair trial.
+ Answer: ",6,1,1,ĠDue,1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the governing document of the United States.
+ Answer: ",ĠConstitution,ĠConstitution,ĠConstitution,ĠConstitution,ĠConstitution,ĠConstitution,ĠConstitution,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment limits the president to two terms.
+ Answer: ",2,2,2,2,2,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ manages federal lands and natural resources.
+ Answer: ",1,ĠThe,2,2,ĠNational,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees public education in the United States.
+ Answer: ",ĠThe,1,1,ĠThe,ĠEducation,ĠThe,ĠEducation,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for protecting civil rights and liberties.
+ Answer: ",1,1,1,ĠEqual,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ investigates cases of federal crimes.
+ Answer: ",1,1,1,1,ĠThe,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment grants citizenship to all persons born in the U.S.
+ Answer: ",14,4,1,2,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment gave African American men the right to vote.
+ Answer: ",19,19,1,ĠVoting,ĠVoting,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ authorizes Congress to regulate commerce.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ resolves conflicts between state and federal law.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees the nation’s public health policies.
+ Answer: ",1,1,1,ĠHealth,1,ĠThe,ĠHealth,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the chief legal officer of the federal government.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ approves the federal budget.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ negotiates treaties with other nations.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ outlines the impeachment process for the president.
+ Answer: ",Ġimpeachment,2,Ġimpeachment,Ġimpeachment,Ġimpeachment,Ġimpeachment,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is responsible for implementing foreign aid programs.
+ Answer: ",ĠImplementation,1,1,3,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment guarantees the right to free assembly.
+ Answer: ",1,1,1,1,1,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees federal disaster response.
+ Answer: ",1,ĠThe,ĠFederal,ĠFEMA,ĠFEMA,ĠFEMA,ĠFEMA,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees the Department of Defense.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠDefense,ĠDefense,ĠDefense,ĠDefense,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ protects national monuments and parks.
+ Answer: ",1,ĠNational,1,1,ĠProtection,ĠConservation,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment extended voting rights to all races.
+ Answer: ",1,1,1,2,ĠVoting,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ appoints federal judges.
+ Answer: ",1,ĠThe,ĠThe,ĠThe,ĠJudiciary,ĠJustice,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ ratifies treaties made by the president.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees the enforcement of environmental laws.
+ Answer: ",ĠEnforcement,ĠEnforcement,ĠEnforcement,ĠEnforcement,ĠEnforcement,ĠEnforcement,ĠEnvironmental,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ advises the president on economic issues.
+ Answer: ",1,1,1,ĠThe,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the official currency of the United States.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment prohibits the forced quartering of soldiers.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ protects the right to petition the government.
+ Answer: ",1,1,1,ĠFreedom,ĠFreedom,ĠFreedom,ĠFreedom,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ determines the constitutionality of laws.
+ Answer: ",ĠThe,ĠThe,1,1,1,ĠConstitutional,ĠConstitution,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the title given to the head of the Senate.
+ Answer: ",1,ĠThe,ĠThe,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the first step in the legislative process.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ ensures transparency in campaign financing.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees national security policy.
+ Answer: ",ĠNational,ĠNational,ĠNational,ĠThe,ĠDefense,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment ensures rights not listed in the Constitution are retained by the people.
+ Answer: ",1,1,1,1,1,ĠConstitution,ĠAmendment,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment reserves powers not delegated to the federal government to the states.
+ Answer: ",ĠThe,ĠThe,1,1,1,ĠConstitution,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the current framework for the federal judiciary.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠJudicial,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ sets minimum standards for state elections.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ determines eligibility for presidential candidates.
+ Answer: ",1,1,1,1,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the official record of Congressional proceedings.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ outlines the federal government's responsibilities.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ determines the distribution of representatives in the House.
+ Answer: ",1,1,1,1,1,1,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ outlines the steps for amending the Constitution.
+ Answer: ",ĠAmendments,2,2,ĠAmendment,ĠAmendment,ĠAmendment,ĠAmendment,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was the constitutional basis for judicial review.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,ĠConstitutional,ĠThe,ĠThe,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ Amendment prohibits excessive bail.
+ Answer: ",ĠThe,1,1,1,1,2,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ is the framework for American democracy.
+ Answer: ",ĠConstitution,ĠThe,ĠThe,ĠConstitution,ĠConstitution,ĠDemocracy,ĠConstitution,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ outlines the functions of the federal bureaucracy.
+ Answer: ",ĠAdministrative,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ guarantees the right to confront witnesses in criminal trials.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ interprets and applies federal law.
+ Answer: ",ĠAdministrative,1,1,ĠInterpret,ĠThe,ĠThe,ĠFederal,1,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ confirms presidential nominations.
+ Answer: ",1,1,1,1,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ was the longest-serving U.S. president.
+ Answer: ",20,ĠGeorge,ĠGeorge,ĠFranklin,ĠFranklin,2,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ sets the rules for Congressional elections.
+ Answer: ",1,1,1,1,ĠDemocratic,ĠThe,ĠCongressional,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ approves declarations of war.
+ Answer: ",1,1,1,ĠThe,1,ĠThe,1,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ interprets the meaning of the Commerce Clause.
+ Answer: ",ĠThe,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,1,ĠThe,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ approves federal appropriations.
+ Answer: ",ĠAppropri,ĠAppropri,1,ĠAppropri,ĠAppropri,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ regulates national elections.
+ Answer: ",1,1,1,1,ĠDemocracy,ĠDemocracy,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ oversees trade relations with foreign nations.
+ Answer: ",1,1,ĠTrade,ĠTrade,ĠTrade,ĠThe,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+"Using Answer Using one word only :  The ________ resolves questions about constitutional amendments.
+ Answer: ",1,1,1,ĠAmendment,ĠAmendment,ĠAmendment,ĠThe,1,1,1,ĠThe,ĠThe,ĠThe,ĠThe,1,1,Ġ
+Using Answer Using one word only :  The ________ determines the structure of federal courts. Answer: ,1,1,1,1,2,ĠJudicial,ĠThe,1,1,1,ĠThe,ĠThe,1,ĠThe,1,1,Ġ
